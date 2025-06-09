@@ -1,0 +1,28 @@
+{
+  "adjectives": [
+    { "id": 1, "adjective": "元気な", "category": "na-adjective" },
+    { "id": 2, "adjective": "おいしい", "category": "i-adjective" },
+    { "id": 3, "adjective": "若い", "category": "i-adjective" },
+    { "id": 4, "adjective": "嫌いな", "category": "na-adjective" },
+    { "id": 5, "adjective": "大きい", "category": "i-adjective" },
+    { "id": 6, "adjective": "速い", "category": "i-adjective" },
+    { "id": 7, "adjective": "静かな", "category": "na-adjective" },
+    { "id": 8, "adjective": "面白い", "category": "i-adjective" },
+    { "id": 9, "adjective": "便利な", "category": "na-adjective" },
+    { "id": 10, "adjective": "たのしい", "category": "i-adjective" },
+    { "id": 11, "adjective": "小さい", "category": "i-adjective" },
+    { "id": 12, "adjective": "有名な", "category": "na-adjective" },
+    { "id": 13, "adjective": "いい", "category": "i-adjective" },
+    { "id": 14, "adjective": "高い", "category": "i-adjective" },
+    { "id": 15, "adjective": "寒い", "category": "i-adjective" },
+    { "id": 16, "adjective": "好きな", "category": "na-adjective" },
+    { "id": 17, "adjective": "古い", "category": "i-adjective" },
+    { "id": 18, "adjective": "新しい", "category": "i-adjective" },
+    { "id": 19, "adjective": "大切な", "category": "na-adjective" },
+    { "id": 20, "adjective": "簡単な", "category": "na-adjective" },
+    { "id": 21, "adjective": "かわいい", "category": "i-adjective" },
+    { "id": 22, "adjective": "安い", "category": "i-adjective" },
+    { "id": 23, "adjective": "暑い", "category": "i-adjective" },
+    { "id": 24, "adjective": "きれいな", "category": "na-adjective" }
+  ]
+}
