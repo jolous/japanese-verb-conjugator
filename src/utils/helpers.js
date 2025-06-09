@@ -1,3 +1,5 @@
+import React, { useState } from 'react';
+
 export function containsKanji(text) {
   return /[一-龯]/.test(text);
 }
@@ -8,7 +10,6 @@ export function convertKatakanaToHiragana(text) {
   );
 }
 
-import React, { useState } from 'react';
 
 export function BlurredText({ children }) {
   const [blurred, setBlurred] = useState(true);
