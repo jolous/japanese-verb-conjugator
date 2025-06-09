@@ -36,5 +36,347 @@
         { "english": "Please do sports", "japanese_polite": "スポーツをしてください", "japanese_plain": "スポーツをして" }
       ]
     }
+  },
+  "食べます": {
+    "title": "食べる Conjugation Table",
+    "group": "Group 2: Ichidan Verbs",
+    "meaning": "to eat",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "食べます", "plain": "食べる" },
+      { "conjugation": "Non-past Negative", "polite": "食べません", "plain": "食べない" },
+      { "conjugation": "Past Affirmative", "polite": "食べました", "plain": "食べた", "te": "食べて" },
+      { "conjugation": "Past Negative", "polite": "食べませんでした", "plain": "食べなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I eat sushi", "japanese_polite": "お寿司を食べます", "japanese_plain": "お寿司を食べる" },
+        { "english": "She eats bread", "japanese_polite": "パンを食べます", "japanese_plain": "パンを食べる" },
+        { "english": "We eat cake", "japanese_polite": "ケーキを食べます", "japanese_plain": "ケーキを食べる" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't eat sushi", "japanese_polite": "お寿司を食べません", "japanese_plain": "お寿司を食べない" },
+        { "english": "He doesn't eat bread", "japanese_polite": "パンを食べません", "japanese_plain": "パンを食べない" },
+        { "english": "They don't eat cake", "japanese_polite": "ケーキを食べません", "japanese_plain": "ケーキを食べない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I ate sushi", "japanese_polite": "お寿司を食べました", "japanese_plain": "お寿司を食べた" },
+        { "english": "She ate bread", "japanese_polite": "パンを食べました", "japanese_plain": "パンを食べた" },
+        { "english": "We ate cake", "japanese_polite": "ケーキを食べました", "japanese_plain": "ケーキを食べた" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't eat sushi", "japanese_polite": "お寿司を食べませんでした", "japanese_plain": "お寿司を食べなかった" },
+        { "english": "He didn't eat bread", "japanese_polite": "パンを食べませんでした", "japanese_plain": "パンを食べなかった" },
+        { "english": "They didn't eat cake", "japanese_polite": "ケーキを食べませんでした", "japanese_plain": "ケーキを食べなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please eat sushi", "japanese_polite": "お寿司を食べてください", "japanese_plain": "お寿司を食べて" },
+        { "english": "Please eat bread", "japanese_polite": "パンを食べてください", "japanese_plain": "パンを食べて" },
+        { "english": "Please eat cake", "japanese_polite": "ケーキを食べてください", "japanese_plain": "ケーキを食べて" }
+      ]
+    }
+  },
+  "行きます": {
+    "title": "行く Conjugation Table",
+    "group": "Group 1: Godan Verbs",
+    "meaning": "to go",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "行きます", "plain": "行く" },
+      { "conjugation": "Non-past Negative", "polite": "行きません", "plain": "行かない" },
+      { "conjugation": "Past Affirmative", "polite": "行きました", "plain": "行った", "te": "行って" },
+      { "conjugation": "Past Negative", "polite": "行きませんでした", "plain": "行かなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I go to school", "japanese_polite": "学校に行きます", "japanese_plain": "学校に行く" },
+        { "english": "She goes to work", "japanese_polite": "仕事に行きます", "japanese_plain": "仕事に行く" },
+        { "english": "We go to the park", "japanese_polite": "公園に行きます", "japanese_plain": "公園に行く" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't go to school", "japanese_polite": "学校に行きません", "japanese_plain": "学校に行かない" },
+        { "english": "He doesn't go to work", "japanese_polite": "仕事に行きません", "japanese_plain": "仕事に行かない" },
+        { "english": "They don't go to the park", "japanese_polite": "公園に行きません", "japanese_plain": "公園に行かない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I went to school", "japanese_polite": "学校に行きました", "japanese_plain": "学校に行った" },
+        { "english": "She went to work", "japanese_polite": "仕事に行きました", "japanese_plain": "仕事に行った" },
+        { "english": "We went to the park", "japanese_polite": "公園に行きました", "japanese_plain": "公園に行った" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't go to school", "japanese_polite": "学校に行きませんでした", "japanese_plain": "学校に行かなかった" },
+        { "english": "He didn't go to work", "japanese_polite": "仕事に行きませんでした", "japanese_plain": "仕事に行かなかった" },
+        { "english": "They didn't go to the park", "japanese_polite": "公園に行きませんでした", "japanese_plain": "公園に行かなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please go to school", "japanese_polite": "学校に行ってください", "japanese_plain": "学校に行って" },
+        { "english": "Please go to work", "japanese_polite": "仕事に行ってください", "japanese_plain": "仕事に行って" },
+        { "english": "Please go to the park", "japanese_polite": "公園に行ってください", "japanese_plain": "公園に行って" }
+      ]
+    }
+  },
+  "見ます": {
+    "title": "見る Conjugation Table",
+    "group": "Group 2: Ichidan Verbs",
+    "meaning": "to see/watch",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "見ます", "plain": "見る" },
+      { "conjugation": "Non-past Negative", "polite": "見ません", "plain": "見ない" },
+      { "conjugation": "Past Affirmative", "polite": "見ました", "plain": "見た", "te": "見て" },
+      { "conjugation": "Past Negative", "polite": "見ませんでした", "plain": "見なかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I watch a movie", "japanese_polite": "映画を見ます", "japanese_plain": "映画を見る" },
+        { "english": "She watches TV", "japanese_polite": "テレビを見ます", "japanese_plain": "テレビを見る" },
+        { "english": "We look at photos", "japanese_polite": "写真を見ます", "japanese_plain": "写真を見る" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't watch a movie", "japanese_polite": "映画を見ません", "japanese_plain": "映画を見ない" },
+        { "english": "He doesn't watch TV", "japanese_polite": "テレビを見ません", "japanese_plain": "テレビを見ない" },
+        { "english": "They don't look at photos", "japanese_polite": "写真を見ません", "japanese_plain": "写真を見ない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I watched a movie", "japanese_polite": "映画を見ました", "japanese_plain": "映画を見た" },
+        { "english": "She watched TV", "japanese_polite": "テレビを見ました", "japanese_plain": "テレビを見た" },
+        { "english": "We looked at photos", "japanese_polite": "写真を見ました", "japanese_plain": "写真を見た" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't watch a movie", "japanese_polite": "映画を見ませんでした", "japanese_plain": "映画を見なかった" },
+        { "english": "He didn't watch TV", "japanese_polite": "テレビを見ませんでした", "japanese_plain": "テレビを見なかった" },
+        { "english": "They didn't look at photos", "japanese_polite": "写真を見ませんでした", "japanese_plain": "写真を見なかった" }
+      ],
+      "Te-form": [
+        { "english": "Please watch a movie", "japanese_polite": "映画を見てください", "japanese_plain": "映画を見て" },
+        { "english": "Please watch TV", "japanese_polite": "テレビを見てください", "japanese_plain": "テレビを見て" },
+        { "english": "Please look at photos", "japanese_polite": "写真を見てください", "japanese_plain": "写真を見て" }
+      ]
+    }
+  },
+  "来ます": {
+    "title": "来る Conjugation Table",
+    "group": "Group 3: Irregular Verbs",
+    "meaning": "to come",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "来ます", "plain": "来る" },
+      { "conjugation": "Non-past Negative", "polite": "来ません", "plain": "来ない" },
+      { "conjugation": "Past Affirmative", "polite": "来ました", "plain": "来た", "te": "来て" },
+      { "conjugation": "Past Negative", "polite": "来ませんでした", "plain": "来なかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I will come tomorrow", "japanese_polite": "明日来ます", "japanese_plain": "明日来る" },
+        { "english": "She comes here", "japanese_polite": "彼女が来ます", "japanese_plain": "彼女が来る" },
+        { "english": "We come to the meeting", "japanese_polite": "会議に来ます", "japanese_plain": "会議に来る" }
+      ],
+      "Non-past Negative": [
+        { "english": "I won't come tomorrow", "japanese_polite": "明日来ません", "japanese_plain": "明日来ない" },
+        { "english": "He doesn't come here", "japanese_polite": "彼は来ません", "japanese_plain": "彼は来ない" },
+        { "english": "They don't come to the meeting", "japanese_polite": "会議に来ません", "japanese_plain": "会議に来ない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I came yesterday", "japanese_polite": "昨日来ました", "japanese_plain": "昨日来た" },
+        { "english": "She came here", "japanese_polite": "彼女が来ました", "japanese_plain": "彼女が来た" },
+        { "english": "We came to the meeting", "japanese_polite": "会議に来ました", "japanese_plain": "会議に来た" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't come yesterday", "japanese_polite": "昨日来ませんでした", "japanese_plain": "昨日来なかった" },
+        { "english": "He didn't come here", "japanese_polite": "彼は来ませんでした", "japanese_plain": "彼は来なかった" },
+        { "english": "They didn't come to the meeting", "japanese_polite": "会議に来ませんでした", "japanese_plain": "会議に来なかった" }
+      ],
+      "Te-form": [
+        { "english": "Please come here", "japanese_polite": "ここに来てください", "japanese_plain": "ここに来て" },
+        { "english": "Please come tomorrow", "japanese_polite": "明日来てください", "japanese_plain": "明日来て" },
+        { "english": "Please come to the meeting", "japanese_polite": "会議に来てください", "japanese_plain": "会議に来て" }
+      ]
+    }
+  },
+  "飲みます": {
+    "title": "飲む Conjugation Table",
+    "group": "Group 1: Godan Verbs",
+    "meaning": "to drink",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "飲みます", "plain": "飲む" },
+      { "conjugation": "Non-past Negative", "polite": "飲みません", "plain": "飲まない" },
+      { "conjugation": "Past Affirmative", "polite": "飲みました", "plain": "飲んだ", "te": "飲んで" },
+      { "conjugation": "Past Negative", "polite": "飲みませんでした", "plain": "飲まなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I drink water", "japanese_polite": "水を飲みます", "japanese_plain": "水を飲む" },
+        { "english": "She drinks coffee", "japanese_polite": "コーヒーを飲みます", "japanese_plain": "コーヒーを飲む" },
+        { "english": "We drink tea", "japanese_polite": "お茶を飲みます", "japanese_plain": "お茶を飲む" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't drink water", "japanese_polite": "水を飲みません", "japanese_plain": "水を飲まない" },
+        { "english": "He doesn't drink coffee", "japanese_polite": "コーヒーを飲みません", "japanese_plain": "コーヒーを飲まない" },
+        { "english": "They don't drink tea", "japanese_polite": "お茶を飲みません", "japanese_plain": "お茶を飲まない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I drank water", "japanese_polite": "水を飲みました", "japanese_plain": "水を飲んだ" },
+        { "english": "She drank coffee", "japanese_polite": "コーヒーを飲みました", "japanese_plain": "コーヒーを飲んだ" },
+        { "english": "We drank tea", "japanese_polite": "お茶を飲みました", "japanese_plain": "お茶を飲んだ" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't drink water", "japanese_polite": "水を飲みませんでした", "japanese_plain": "水を飲まなかった" },
+        { "english": "He didn't drink coffee", "japanese_polite": "コーヒーを飲みませんでした", "japanese_plain": "コーヒーを飲まなかった" },
+        { "english": "They didn't drink tea", "japanese_polite": "お茶を飲みませんでした", "japanese_plain": "お茶を飲まなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please drink water", "japanese_polite": "水を飲んでください", "japanese_plain": "水を飲んで" },
+        { "english": "Please drink coffee", "japanese_polite": "コーヒーを飲んでください", "japanese_plain": "コーヒーを飲んで" },
+        { "english": "Please drink tea", "japanese_polite": "お茶を飲んでください", "japanese_plain": "お茶を飲んで" }
+      ]
+    }
+  },
+  "買います": {
+    "title": "買う Conjugation Table",
+    "group": "Group 1: Godan Verbs",
+    "meaning": "to buy",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "買います", "plain": "買う" },
+      { "conjugation": "Non-past Negative", "polite": "買いません", "plain": "買わない" },
+      { "conjugation": "Past Affirmative", "polite": "買いました", "plain": "買った", "te": "買って" },
+      { "conjugation": "Past Negative", "polite": "買いませんでした", "plain": "買わなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I buy a book", "japanese_polite": "本を買います", "japanese_plain": "本を買う" },
+        { "english": "She buys vegetables", "japanese_polite": "野菜を買います", "japanese_plain": "野菜を買う" },
+        { "english": "We buy new clothes", "japanese_polite": "新しい服を買います", "japanese_plain": "新しい服を買う" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't buy a book", "japanese_polite": "本を買いません", "japanese_plain": "本を買わない" },
+        { "english": "He doesn't buy vegetables", "japanese_polite": "野菜を買いません", "japanese_plain": "野菜を買わない" },
+        { "english": "They don't buy new clothes", "japanese_polite": "新しい服を買いません", "japanese_plain": "新しい服を買わない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I bought a book", "japanese_polite": "本を買いました", "japanese_plain": "本を買った" },
+        { "english": "She bought vegetables", "japanese_polite": "野菜を買いました", "japanese_plain": "野菜を買った" },
+        { "english": "We bought new clothes", "japanese_polite": "新しい服を買いました", "japanese_plain": "新しい服を買った" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't buy a book", "japanese_polite": "本を買いませんでした", "japanese_plain": "本を買わなかった" },
+        { "english": "He didn't buy vegetables", "japanese_polite": "野菜を買いませんでした", "japanese_plain": "野菜を買わなかった" },
+        { "english": "They didn't buy new clothes", "japanese_polite": "新しい服を買いませんでした", "japanese_plain": "新しい服を買わなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please buy a book", "japanese_polite": "本を買ってください", "japanese_plain": "本を買って" },
+        { "english": "Please buy vegetables", "japanese_polite": "野菜を買ってください", "japanese_plain": "野菜を買って" },
+        { "english": "Please buy new clothes", "japanese_polite": "新しい服を買ってください", "japanese_plain": "新しい服を買って" }
+      ]
+    }
+  },
+  "書きます": {
+    "title": "書く Conjugation Table",
+    "group": "Group 1: Godan Verbs",
+    "meaning": "to write",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "書きます", "plain": "書く" },
+      { "conjugation": "Non-past Negative", "polite": "書きません", "plain": "書かない" },
+      { "conjugation": "Past Affirmative", "polite": "書きました", "plain": "書いた", "te": "書いて" },
+      { "conjugation": "Past Negative", "polite": "書きませんでした", "plain": "書かなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I write a letter", "japanese_polite": "手紙を書きます", "japanese_plain": "手紙を書く" },
+        { "english": "She writes a diary", "japanese_polite": "日記を書きます", "japanese_plain": "日記を書く" },
+        { "english": "We write our names", "japanese_polite": "名前を書きます", "japanese_plain": "名前を書く" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't write a letter", "japanese_polite": "手紙を書きません", "japanese_plain": "手紙を書かない" },
+        { "english": "He doesn't write a diary", "japanese_polite": "日記を書きません", "japanese_plain": "日記を書かない" },
+        { "english": "They don't write their names", "japanese_polite": "名前を書きません", "japanese_plain": "名前を書かない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I wrote a letter", "japanese_polite": "手紙を書きました", "japanese_plain": "手紙を書いた" },
+        { "english": "She wrote a diary", "japanese_polite": "日記を書きました", "japanese_plain": "日記を書いた" },
+        { "english": "We wrote our names", "japanese_polite": "名前を書きました", "japanese_plain": "名前を書いた" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't write a letter", "japanese_polite": "手紙を書きませんでした", "japanese_plain": "手紙を書かなかった" },
+        { "english": "He didn't write a diary", "japanese_polite": "日記を書きませんでした", "japanese_plain": "日記を書かなかった" },
+        { "english": "They didn't write their names", "japanese_polite": "名前を書きませんでした", "japanese_plain": "名前を書かなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please write a letter", "japanese_polite": "手紙を書いてください", "japanese_plain": "手紙を書いて" },
+        { "english": "Please write a diary", "japanese_polite": "日記を書いてください", "japanese_plain": "日記を書いて" },
+        { "english": "Please write your name", "japanese_polite": "名前を書いてください", "japanese_plain": "名前を書いて" }
+      ]
+    }
+  },
+  "読みます": {
+    "title": "読む Conjugation Table",
+    "group": "Group 1: Godan Verbs",
+    "meaning": "to read",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "読みます", "plain": "読む" },
+      { "conjugation": "Non-past Negative", "polite": "読みません", "plain": "読まない" },
+      { "conjugation": "Past Affirmative", "polite": "読みました", "plain": "読んだ", "te": "読んで" },
+      { "conjugation": "Past Negative", "polite": "読みませんでした", "plain": "読まなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I read a book", "japanese_polite": "本を読みます", "japanese_plain": "本を読む" },
+        { "english": "She reads a magazine", "japanese_polite": "雑誌を読みます", "japanese_plain": "雑誌を読む" },
+        { "english": "We read a letter", "japanese_polite": "手紙を読みます", "japanese_plain": "手紙を読む" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't read a book", "japanese_polite": "本を読みません", "japanese_plain": "本を読まない" },
+        { "english": "He doesn't read a magazine", "japanese_polite": "雑誌を読みません", "japanese_plain": "雑誌を読まない" },
+        { "english": "They don't read a letter", "japanese_polite": "手紙を読みません", "japanese_plain": "手紙を読まない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I read (past) a book", "japanese_polite": "本を読みました", "japanese_plain": "本を読んだ" },
+        { "english": "She read a magazine", "japanese_polite": "雑誌を読みました", "japanese_plain": "雑誌を読んだ" },
+        { "english": "We read a letter", "japanese_polite": "手紙を読みました", "japanese_plain": "手紙を読んだ" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't read a book", "japanese_polite": "本を読みませんでした", "japanese_plain": "本を読まなかった" },
+        { "english": "He didn't read a magazine", "japanese_polite": "雑誌を読みませんでした", "japanese_plain": "雑誌を読まなかった" },
+        { "english": "They didn't read a letter", "japanese_polite": "手紙を読みませんでした", "japanese_plain": "手紙を読まなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please read a book", "japanese_polite": "本を読んでください", "japanese_plain": "本を読んで" },
+        { "english": "Please read a magazine", "japanese_polite": "雑誌を読んでください", "japanese_plain": "雑誌を読んで" },
+        { "english": "Please read a letter", "japanese_polite": "手紙を読んでください", "japanese_plain": "手紙を読んで" }
+      ]
+    }
+  },
+  "会います": {
+    "title": "会う Conjugation Table",
+    "group": "Group 1: Godan Verbs",
+    "meaning": "to meet",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "会います", "plain": "会う" },
+      { "conjugation": "Non-past Negative", "polite": "会いません", "plain": "会わない" },
+      { "conjugation": "Past Affirmative", "polite": "会いました", "plain": "会った", "te": "会って" },
+      { "conjugation": "Past Negative", "polite": "会いませんでした", "plain": "会わなかった" }
+    ],
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I meet a friend", "japanese_polite": "友達に会います", "japanese_plain": "友達に会う" },
+        { "english": "She meets her parents", "japanese_polite": "両親に会います", "japanese_plain": "両親に会う" },
+        { "english": "We meet the teacher", "japanese_polite": "先生に会います", "japanese_plain": "先生に会う" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't meet a friend", "japanese_polite": "友達に会いません", "japanese_plain": "友達に会わない" },
+        { "english": "He doesn't meet his parents", "japanese_polite": "両親に会いません", "japanese_plain": "両親に会わない" },
+        { "english": "They don't meet the teacher", "japanese_polite": "先生に会いません", "japanese_plain": "先生に会わない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I met a friend", "japanese_polite": "友達に会いました", "japanese_plain": "友達に会った" },
+        { "english": "She met her parents", "japanese_polite": "両親に会いました", "japanese_plain": "両親に会った" },
+        { "english": "We met the teacher", "japanese_polite": "先生に会いました", "japanese_plain": "先生に会った" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't meet a friend", "japanese_polite": "友達に会いませんでした", "japanese_plain": "友達に会わなかった" },
+        { "english": "He didn't meet his parents", "japanese_polite": "両親に会いませんでした", "japanese_plain": "両親に会わなかった" },
+        { "english": "They didn't meet the teacher", "japanese_polite": "先生に会いませんでした", "japanese_plain": "先生に会わなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please meet a friend", "japanese_polite": "友達に会ってください", "japanese_plain": "友達に会って" },
+        { "english": "Please meet your parents", "japanese_polite": "両親に会ってください", "japanese_plain": "両親に会って" },
+        { "english": "Please meet the teacher", "japanese_polite": "先生に会ってください", "japanese_plain": "先生に会って" }
+      ]
+    }
   }
 }
