@@ -11,6 +11,7 @@ function AdjectiveConjugator() {
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [adjectives, setAdjectives] = useState([]);
   const [tokenizer, setTokenizer] = useState(null);
+  const [conjugationLibrary, setConjugationLibrary] = useState({});
 
   // Load kuromoji tokenizer once on mount
   useEffect(() => {
@@ -42,6 +43,21 @@ function AdjectiveConjugator() {
       });
   }, []);
 
+  useEffect(() => {
+    fetch('/adjective_conjugations.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("Failed to fetch conjugation data");
+        }
+        return response.json();
+      })
+      .then(data => {
+        setConjugationLibrary(data);
+      })
+      .catch(error => {
+        console.error("Error fetching conjugation data:", error);
+      });
+  }, []);
   // Helper to add furigana
   const addFurigana = (text) => {
     if (!tokenizer || typeof text !== "string") return text;
@@ -82,125 +98,20 @@ function AdjectiveConjugator() {
     await conjugateAdjective(adjective, category);
   };
 
-  // Replace with your actual OpenAI API key
-  const OPENAI_API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
 
-  // Calls the ChatGPT API to fetch adjective conjugation data
-  const conjugateAdjective = async (inputAdjective, inputCategory = "") => {
+  const conjugateAdjective = async (inputAdjective) => {
     setLoading(true);
     setError("");
     setResult(null);
 
-    // Check localStorage cache first
-    const cache = JSON.parse(localStorage.getItem('adjectiveCache') || '{}');
-    if (cache[inputAdjective]) {
-      setResult(cache[inputAdjective]);
+    if (conjugationLibrary && conjugationLibrary[inputAdjective]) {
+      setResult(conjugationLibrary[inputAdjective]);
       setLoading(false);
       return;
     }
 
-    const prompt = `
-Please provide a Japanese adjective conjugation table for the adjective "${inputAdjective}".
-${inputCategory ? `It belongs to the "${inputCategory}" category.` : ""}
-Include the main meaning of the adjective.
-Include the following conjugation forms:
-- Base Form
-- Negative Form
-- Past Form
-- Past Negative Form
-- Adverbial Form
-Additionally, provide example sentences for each form at a JLPT N5 level.
-For each conjugation, output an example sentence in English and two Japanese translations—one in polite form and one in plain form—in hiragana only (no kanji).
-Output a JSON object with the following structure (and no additional text):
-
-{
-  "title": "<Adjective> Conjugation Table",
-  "type": "i-adjective or na-adjective",
-  "meaning": "Meaning of the adjective",
-  "conjugations": [
-    { "conjugation": "Base Form", "polite": "...", "plain": "..." },
-    { "conjugation": "Negative", "polite": "...", "plain": "..." },
-    { "conjugation": "Past", "polite": "...", "plain": "..." },
-    { "conjugation": "Past Negative", "polite": "...", "plain": "..." },
-    { "conjugation": "Adverbial", "polite": "...", "plain": "..." }
-  ],
-  "examples": [
-    {
-      "tense": "Positive",
-      "english": "English example sentence",
-      "japanese_polite": "japanese polite translation",
-      "japanese_plain": "japanese plain translation"
-    },
-    {
-      "tense": "Negative",
-      "english": "English example sentence",
-      "japanese_polite": "japanese polite translation",
-      "japanese_plain": "japanese plain translation"
-    },
-    {
-      "tense": "Past",
-      "english": "English example sentence",
-      "japanese_polite": "japanese polite translation",
-      "japanese_plain": "japanese plain translation"
-    },
-    {
-      "tense": "Past Negative",
-      "english": "English example sentence",
-      "japanese_polite": "japanese polite translation",
-      "japanese_plain": "japanese plain translation"
-    },
-    {
-      "tense": "Adverbial",
-      "english": "English example sentence using adverbial form",
-      "japanese_polite": "japanese polite translation using adverbial form",
-      "japanese_plain": "japanese plain translation using adverbial form"
-    }
-  ]
-}
-    `.trim();
-
-    try {
-      const response = await fetch("https://api.openai.com/v1/chat/completions", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: "Bearer " + OPENAI_API_KEY,
-        },
-        body: JSON.stringify({
-          model: "gpt-3.5-turbo",
-          messages: [{
-            role: "user",
-            content: prompt,
-          }],
-          temperature: 0.3,
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error("OpenAI API error: " + response.statusText);
-      }
-
-      const resultData = await response.json();
-      const messageContent = resultData.choices[0].message.content;
-      let conjugationData;
-      try {
-        conjugationData = JSON.parse(messageContent);
-      } catch (err) {
-        console.error("Failed to parse API response:", messageContent);
-        throw new Error("Failed to parse API response as JSON.");
-      }
-
-      // Cache the result in localStorage
-      const cache = JSON.parse(localStorage.getItem('adjectiveCache') || '{}');
-      cache[inputAdjective] = conjugationData;
-      localStorage.setItem('adjectiveCache', JSON.stringify(cache));
-
-      setResult(conjugationData);
-    } catch (err) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
+    setError("No conjugation data found for the specified adjective.");
+    setLoading(false);
   };
 
   return (
