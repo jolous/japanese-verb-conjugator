@@ -91,6 +91,14 @@ function AdjectiveConjugator() {
     setError("");
     setResult(null);
 
+    // Check localStorage cache first
+    const cache = JSON.parse(localStorage.getItem('adjectiveCache') || '{}');
+    if (cache[inputAdjective]) {
+      setResult(cache[inputAdjective]);
+      setLoading(false);
+      return;
+    }
+
     const prompt = `
 Please provide a Japanese adjective conjugation table for the adjective "${inputAdjective}".
 ${inputCategory ? `It belongs to the "${inputCategory}" category.` : ""}
@@ -181,6 +189,12 @@ Output a JSON object with the following structure (and no additional text):
         console.error("Failed to parse API response:", messageContent);
         throw new Error("Failed to parse API response as JSON.");
       }
+
+      // Cache the result in localStorage
+      const cache = JSON.parse(localStorage.getItem('adjectiveCache') || '{}');
+      cache[inputAdjective] = conjugationData;
+      localStorage.setItem('adjectiveCache', JSON.stringify(cache));
+
       setResult(conjugationData);
     } catch (err) {
       setError(err.message);
