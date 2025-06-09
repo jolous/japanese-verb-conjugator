@@ -12,6 +12,7 @@ export default function VerbConjugator() {
   const [verbs, setVerbs] = useState([]);
   const [tokenizer, setTokenizer] = useState(null);
   const [showRules, setShowRules] = useState(false);
+  const [conjugationLibrary, setConjugationLibrary] = useState({});
 
   useEffect(() => {
     kuromoji
@@ -38,6 +39,22 @@ export default function VerbConjugator() {
       })
       .catch(error => {
         console.error('Error fetching verbs:', error);
+      });
+  }, []);
+
+  useEffect(() => {
+    fetch('/verb_conjugations.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Failed to fetch conjugation data');
+        }
+        return response.json();
+      })
+      .then(data => {
+        setConjugationLibrary(data);
+      })
+      .catch(error => {
+        console.error('Error fetching conjugation data:', error);
       });
   }, []);
 
@@ -78,87 +95,20 @@ export default function VerbConjugator() {
     await conjugateVerb(verb, category);
   };
 
-  const OPENAI_API_KEY = process.env.REACT_APP_OPENAI_API_KEY;
-
   const conjugateVerb = async (inputVerb, inputCategory = '') => {
     setLoading(true);
     setError('');
     setResult(null);
 
-    // Check localStorage cache first
-    const cache = JSON.parse(localStorage.getItem('verbCache') || '{}');
-    if (cache[inputVerb]) {
-      setResult(cache[inputVerb]);
+    // Look up the verb in the loaded JSON data
+    if (conjugationLibrary && conjugationLibrary[inputVerb]) {
+      setResult(conjugationLibrary[inputVerb]);
       setLoading(false);
       return;
     }
 
-    const prompt = `
-Please provide a Japanese verb conjugation table for the verb "${inputVerb}".
-${inputCategory ? `It belongs to the category "${inputCategory}".` : ''}
-Include the main meaning of the verb and specify which verb group it belongs to (e.g. Group 1: Godan Verbs, Group 2: Ichidan Verbs, or Group 3: Irregular Verbs) in the output.
-Additionally, provide example sentences for each conjugation at a JLPT N5 level using exactly the same verb.
-For each conjugation, output an example sentence or question in English and two Japanese translations—one in polite form and one in plain form—in hiragana only (no kanji), incorporating the user input verb.
-Output a JSON object with the following structure (and no additional text):
-
-{
-  "title": "<Verb in kanji> Conjugation Table",
-  "group": "Group information (e.g. Group 1)",
-  "meaning": "Meaning of the verb",
-  "conjugations": [
-    { "conjugation": "Non-past Affirmative", "polite": "...", "plain": "..." },
-    { "conjugation": "Non-past Negative", "polite": "...", "plain": "..." },
-    { "conjugation": "Past Affirmative", "polite": "...", "plain": "...", "te": "..." },
-    { "conjugation": "Past Negative", "polite": "...", "plain": "..." }
-  ],
-  "examples": [
-    { "tense": "Non-past Affirmative", "english": "English example sentence", "japanese_polite": "japanese polite translation", "japanese_plain": "japanese plain translation" },
-    { "tense": "Non-past Negative", "english": "English example sentence", "japanese_polite": "japanese polite translation", "japanese_plain": "japanese plain translation" },
-    { "tense": "Past Affirmative", "english": "English example sentence", "japanese_polite": "japanese polite translation", "japanese_plain": "japanese plain translation" },
-    { "tense": "Past Negative", "english": "English example sentence", "japanese_polite": "japanese polite translation", "japanese_plain": "japanese plain translation" },
-    { "tense": "Te-form", "english": "English example sentence", "japanese_polite": "japanese polite translation", "japanese_plain": "japanese plain translation" }
-  ]
-}`.trim();
-
-    try {
-      const response = await fetch('https://api.openai.com/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: 'Bearer ' + OPENAI_API_KEY,
-        },
-        body: JSON.stringify({
-          model: 'gpt-3.5-turbo',
-          messages: [{ role: 'user', content: prompt }],
-          temperature: 0.3,
-        }),
-      });
-
-      if (!response.ok) {
-        throw new Error('OpenAI API error: ' + response.statusText);
-      }
-
-      const resultData = await response.json();
-      const messageContent = resultData.choices[0].message.content;
-      let conjugationData;
-      try {
-        conjugationData = JSON.parse(messageContent);
-      } catch (err) {
-        console.error('Failed to parse API response:', messageContent);
-        throw new Error('Failed to parse API response as JSON.');
-      }
-
-      // Cache the result in localStorage
-      const cache = JSON.parse(localStorage.getItem('verbCache') || '{}');
-      cache[inputVerb] = conjugationData;
-      localStorage.setItem('verbCache', JSON.stringify(cache));
-
-      setResult(conjugationData);
-    } catch (err) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
+    setError('No conjugation data found for the specified verb.');
+    setLoading(false);
   };
 
   return (

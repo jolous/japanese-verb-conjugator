@@ -1,0 +1,20 @@
+{
+  "します": {
+    "title": "する Conjugation Table",
+    "group": "Group 3: Irregular Verbs",
+    "meaning": "to do",
+    "conjugations": [
+      { "conjugation": "Non-past Affirmative", "polite": "します", "plain": "する" },
+      { "conjugation": "Non-past Negative", "polite": "しません", "plain": "しない" },
+      { "conjugation": "Past Affirmative", "polite": "しました", "plain": "した", "te": "して" },
+      { "conjugation": "Past Negative", "polite": "しませんでした", "plain": "しなかった" }
+    ],
+    "examples": [
+      { "tense": "Non-past Affirmative", "english": "I do homework", "japanese_polite": "しゅくだいをします", "japanese_plain": "しゅくだいをする" },
+      { "tense": "Non-past Negative", "english": "I don't do homework", "japanese_polite": "しゅくだいをしません", "japanese_plain": "しゅくだいをしない" },
+      { "tense": "Past Affirmative", "english": "I did homework", "japanese_polite": "しゅくだいをしました", "japanese_plain": "しゅくだいをした" },
+      { "tense": "Past Negative", "english": "I didn't do homework", "japanese_polite": "しゅくだいをしませんでした", "japanese_plain": "しゅくだいをしなかった" },
+      { "tense": "Te-form", "english": "Please do homework", "japanese_polite": "しゅくだいをしてください", "japanese_plain": "しゅくだいをして" }
+    ]
+  }
+}
