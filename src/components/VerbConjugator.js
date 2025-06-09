@@ -102,7 +102,16 @@ export default function VerbConjugator() {
 
     // Look up the verb in the loaded JSON data
     if (conjugationLibrary && conjugationLibrary[inputVerb]) {
-      setResult(conjugationLibrary[inputVerb]);
+      const data = conjugationLibrary[inputVerb];
+      let processed = data;
+      if (data.examples && !Array.isArray(data.examples)) {
+        const randomExamples = Object.entries(data.examples).map(([tense, arr]) => {
+          const ex = arr[Math.floor(Math.random() * arr.length)];
+          return { tense, ...ex };
+        });
+        processed = { ...data, examples: randomExamples };
+      }
+      setResult(processed);
       setLoading(false);
       return;
     }

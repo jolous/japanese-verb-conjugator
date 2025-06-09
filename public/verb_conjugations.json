@@ -9,12 +9,32 @@
       { "conjugation": "Past Affirmative", "polite": "しました", "plain": "した", "te": "して" },
       { "conjugation": "Past Negative", "polite": "しませんでした", "plain": "しなかった" }
     ],
-    "examples": [
-      { "tense": "Non-past Affirmative", "english": "I do homework", "japanese_polite": "しゅくだいをします", "japanese_plain": "しゅくだいをする" },
-      { "tense": "Non-past Negative", "english": "I don't do homework", "japanese_polite": "しゅくだいをしません", "japanese_plain": "しゅくだいをしない" },
-      { "tense": "Past Affirmative", "english": "I did homework", "japanese_polite": "しゅくだいをしました", "japanese_plain": "しゅくだいをした" },
-      { "tense": "Past Negative", "english": "I didn't do homework", "japanese_polite": "しゅくだいをしませんでした", "japanese_plain": "しゅくだいをしなかった" },
-      { "tense": "Te-form", "english": "Please do homework", "japanese_polite": "しゅくだいをしてください", "japanese_plain": "しゅくだいをして" }
-    ]
+    "examples": {
+      "Non-past Affirmative": [
+        { "english": "I do homework", "japanese_polite": "しゅくだいをします", "japanese_plain": "しゅくだいをする" },
+        { "english": "She does work", "japanese_polite": "しごとをします", "japanese_plain": "しごとをする" },
+        { "english": "We do sports", "japanese_polite": "スポーツをします", "japanese_plain": "スポーツをする" }
+      ],
+      "Non-past Negative": [
+        { "english": "I don't do homework", "japanese_polite": "しゅくだいをしません", "japanese_plain": "しゅくだいをしない" },
+        { "english": "He doesn't do work", "japanese_polite": "しごとをしません", "japanese_plain": "しごとをしない" },
+        { "english": "They don't do sports", "japanese_polite": "スポーツをしません", "japanese_plain": "スポーツをしない" }
+      ],
+      "Past Affirmative": [
+        { "english": "I did homework", "japanese_polite": "しゅくだいをしました", "japanese_plain": "しゅくだいをした" },
+        { "english": "She did work", "japanese_polite": "しごとをしました", "japanese_plain": "しごとをした" },
+        { "english": "We did sports", "japanese_polite": "スポーツをしました", "japanese_plain": "スポーツをした" }
+      ],
+      "Past Negative": [
+        { "english": "I didn't do homework", "japanese_polite": "しゅくだいをしませんでした", "japanese_plain": "しゅくだいをしなかった" },
+        { "english": "He didn't do work", "japanese_polite": "しごとをしませんでした", "japanese_plain": "しごとをしなかった" },
+        { "english": "They didn't do sports", "japanese_polite": "スポーツをしませんでした", "japanese_plain": "スポーツをしなかった" }
+      ],
+      "Te-form": [
+        { "english": "Please do homework", "japanese_polite": "しゅくだいをしてください", "japanese_plain": "しゅくだいをして" },
+        { "english": "Please do work", "japanese_polite": "しごとをしてください", "japanese_plain": "しごとをして" },
+        { "english": "Please do sports", "japanese_polite": "スポーツをしてください", "japanese_plain": "スポーツをして" }
+      ]
+    }
   }
 }
