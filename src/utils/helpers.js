@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 export function containsKanji(text) {
   return /[一-龯]/.test(text);
@@ -13,6 +13,11 @@ export function convertKatakanaToHiragana(text) {
 
 export function BlurredText({ children }) {
   const [blurred, setBlurred] = useState(true);
+
+  useEffect(() => {
+    setBlurred(true);
+  }, [children]);
+
   return (
     <span className={blurred ? 'blurred' : ''} onClick={() => setBlurred(false)}>
       {children}
