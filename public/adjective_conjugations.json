@@ -1,0 +1,78 @@
+{
+  "おいしい": {
+    "title": "おいしい Conjugation Table",
+    "type": "i-adjective",
+    "meaning": "delicious",
+    "conjugations": [
+      {"conjugation": "Base Form", "polite": "おいしいです", "plain": "おいしい"},
+      {"conjugation": "Negative", "polite": "おいしくないです", "plain": "おいしくない"},
+      {"conjugation": "Past", "polite": "おいしかったです", "plain": "おいしかった"},
+      {"conjugation": "Past Negative", "polite": "おいしくなかったです", "plain": "おいしくなかった"},
+      {"conjugation": "Adverbial", "polite": "おいしく", "plain": "おいしく"}
+    ],
+    "examples": [
+      {"tense": "Positive", "english": "This cake is delicious", "japanese_polite": "このけーきはおいしいです", "japanese_plain": "このけーきはおいしい"},
+      {"tense": "Negative", "english": "This cake is not delicious", "japanese_polite": "このけーきはおいしくないです", "japanese_plain": "このけーきはおいしくない"},
+      {"tense": "Past", "english": "The cake was delicious", "japanese_polite": "けーきはおいしかったです", "japanese_plain": "けーきはおいしかった"},
+      {"tense": "Past Negative", "english": "The cake was not delicious", "japanese_polite": "けーきはおいしくなかったです", "japanese_plain": "けーきはおいしくなかった"},
+      {"tense": "Adverbial", "english": "He eats deliciously", "japanese_polite": "かれはおいしくたべます", "japanese_plain": "かれはおいしくたべる"}
+    ]
+  },
+  "元気な": {
+    "title": "元気な Conjugation Table",
+    "type": "na-adjective",
+    "meaning": "healthy; lively",
+    "conjugations": [
+      {"conjugation": "Base Form", "polite": "元気です", "plain": "元気だ"},
+      {"conjugation": "Negative", "polite": "元気ではありません", "plain": "元気じゃない"},
+      {"conjugation": "Past", "polite": "元気でした", "plain": "元気だった"},
+      {"conjugation": "Past Negative", "polite": "元気ではありませんでした", "plain": "元気じゃなかった"},
+      {"conjugation": "Adverbial", "polite": "元気に", "plain": "元気に"}
+    ],
+    "examples": [
+      {"tense": "Positive", "english": "He is healthy", "japanese_polite": "かれはげんきです", "japanese_plain": "かれはげんきだ"},
+      {"tense": "Negative", "english": "He is not healthy", "japanese_polite": "かれはげんきではありません", "japanese_plain": "かれはげんきじゃない"},
+      {"tense": "Past", "english": "He was healthy", "japanese_polite": "かれはげんきでした", "japanese_plain": "かれはげんきだった"},
+      {"tense": "Past Negative", "english": "He was not healthy", "japanese_polite": "かれはげんきではありませんでした", "japanese_plain": "かれはげんきじゃなかった"},
+      {"tense": "Adverbial", "english": "He speaks cheerfully", "japanese_polite": "かれはげんきにはなします", "japanese_plain": "かれはげんきにはなす"}
+    ]
+  },
+  "静かな": {
+    "title": "静かな Conjugation Table",
+    "type": "na-adjective",
+    "meaning": "quiet",
+    "conjugations": [
+      {"conjugation": "Base Form", "polite": "静かです", "plain": "静かだ"},
+      {"conjugation": "Negative", "polite": "静かではありません", "plain": "静かじゃない"},
+      {"conjugation": "Past", "polite": "静かでした", "plain": "静かだった"},
+      {"conjugation": "Past Negative", "polite": "静かではありませんでした", "plain": "静かじゃなかった"},
+      {"conjugation": "Adverbial", "polite": "静かに", "plain": "静かに"}
+    ],
+    "examples": [
+      {"tense": "Positive", "english": "The room is quiet", "japanese_polite": "へやはしずかです", "japanese_plain": "へやはしずかだ"},
+      {"tense": "Negative", "english": "The room is not quiet", "japanese_polite": "へやはしずかではありません", "japanese_plain": "へやはしずかじゃない"},
+      {"tense": "Past", "english": "The room was quiet", "japanese_polite": "へやはしずかでした", "japanese_plain": "へやはしずかだった"},
+      {"tense": "Past Negative", "english": "The room was not quiet", "japanese_polite": "へやはしずかではありませんでした", "japanese_plain": "へやはしずかじゃなかった"},
+      {"tense": "Adverbial", "english": "She speaks quietly", "japanese_polite": "かのじょはしずかにはなします", "japanese_plain": "かのじょはしずかにはなす"}
+    ]
+  },
+  "高い": {
+    "title": "高い Conjugation Table",
+    "type": "i-adjective",
+    "meaning": "tall; expensive",
+    "conjugations": [
+      {"conjugation": "Base Form", "polite": "高いです", "plain": "高い"},
+      {"conjugation": "Negative", "polite": "高くないです", "plain": "高くない"},
+      {"conjugation": "Past", "polite": "高かったです", "plain": "高かった"},
+      {"conjugation": "Past Negative", "polite": "高くなかったです", "plain": "高くなかった"},
+      {"conjugation": "Adverbial", "polite": "高く", "plain": "高く"}
+    ],
+    "examples": [
+      {"tense": "Positive", "english": "The mountain is tall", "japanese_polite": "やまはたかいです", "japanese_plain": "やまはたかい"},
+      {"tense": "Negative", "english": "The mountain is not tall", "japanese_polite": "やまはたかくないです", "japanese_plain": "やまはたかくない"},
+      {"tense": "Past", "english": "The mountain was tall", "japanese_polite": "やまはたかかったです", "japanese_plain": "やまはたかかった"},
+      {"tense": "Past Negative", "english": "The mountain was not tall", "japanese_polite": "やまはたかくなかったです", "japanese_plain": "やまはたかくなかった"},
+      {"tense": "Adverbial", "english": "He jumped high", "japanese_polite": "かれはたかくとびました", "japanese_plain": "かれはたかくとんだ"}
+    ]
+  }
+}
