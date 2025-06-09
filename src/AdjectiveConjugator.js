@@ -1,40 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import kuromoji from 'kuromoji';
 import './App.css';
-
-// Utility functions
-function containsKanji(text) {
-  return /[一-龯]/.test(text);
-}
-
-function convertKatakanaToHiragana(text) {
-  return text.replace(/[\u30A1-\u30F6]/g, (ch) =>
-    String.fromCharCode(ch.charCodeAt(0) - 0x60)
-  );
-}
-
-// Component to display blurred text that reveals on click
-function BlurredText({ children }) {
-  const [blurred, setBlurred] = useState(true);
-  return (
-    <span
-      className={blurred ? "blurred" : ""}
-      onClick={() => setBlurred(false)}
-    >
-      {children}
-    </span>
-  );
-}
-
-// LoadingSpinner Component
-function LoadingSpinner() {
-  return (
-    <div className="loading-container">
-      <div className="loader"></div>
-      <p>Loading...</p>
-    </div>
-  );
-}
+import { containsKanji, convertKatakanaToHiragana, BlurredText, LoadingSpinner } from './utils/helpers';
 
 function AdjectiveConjugator() {
   const [adjective, setAdjective] = useState("");
