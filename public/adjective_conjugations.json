@@ -31,89 +31,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is healthy",
-          "japanese_polite": "これは元気です",
-          "japanese_plain": "これは元気だ"
+          "english": "My grandfather is lively.",
+          "japanese_polite": "おじいさんは元気です。",
+          "japanese_plain": "おじいさんは元気だ。"
         },
         {
-          "english": "That is healthy",
-          "japanese_polite": "それは元気です",
-          "japanese_plain": "それは元気だ"
+          "english": "The students are lively today.",
+          "japanese_polite": "きょう、がくせいたちは元気です。",
+          "japanese_plain": "きょう、がくせいたちは元気だ。"
         },
         {
-          "english": "It is healthy",
-          "japanese_polite": "あれは元気です",
-          "japanese_plain": "あれは元気だ"
+          "english": "My dog is very lively in the morning.",
+          "japanese_polite": "あさ、いぬはとても元気です。",
+          "japanese_plain": "あさ、いぬはとても元気だ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not healthy",
-          "japanese_polite": "これは元気ではありません",
-          "japanese_plain": "これは元気じゃない"
+          "english": "My little brother is not lively today.",
+          "japanese_polite": "きょう、弟は元気ではありません。",
+          "japanese_plain": "きょう、弟は元気じゃない。"
         },
         {
-          "english": "That is not healthy",
-          "japanese_polite": "それは元気ではありません",
-          "japanese_plain": "それは元気じゃない"
+          "english": "The cat isn’t lively this morning.",
+          "japanese_polite": "けさ、ねこは元気ではありません。",
+          "japanese_plain": "けさ、ねこは元気じゃない。"
         },
         {
-          "english": "It is not healthy",
-          "japanese_polite": "あれは元気ではありません",
-          "japanese_plain": "あれは元気じゃない"
+          "english": "I'm not feeling lively.",
+          "japanese_polite": "わたしは元気ではありません。",
+          "japanese_plain": "わたしは元気じゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was healthy",
-          "japanese_polite": "これは元気でした",
-          "japanese_plain": "これは元気だった"
+          "english": "My mother was lively last week.",
+          "japanese_polite": "せんしゅう、母は元気でした。",
+          "japanese_plain": "せんしゅう、母は元気だった。"
         },
         {
-          "english": "That was healthy",
-          "japanese_polite": "それは元気でした",
-          "japanese_plain": "それは元気だった"
+          "english": "The teacher was lively yesterday.",
+          "japanese_polite": "きのう、せんせいは元気でした。",
+          "japanese_plain": "きのう、せんせいは元気だった。"
         },
         {
-          "english": "It was healthy",
-          "japanese_polite": "あれは元気でした",
-          "japanese_plain": "あれは元気だった"
+          "english": "I was lively at the party.",
+          "japanese_polite": "パーティーでわたしは元気でした。",
+          "japanese_plain": "パーティーでわたしは元気だった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not healthy",
-          "japanese_polite": "これは元気ではありませんでした",
-          "japanese_plain": "これは元気じゃなかった"
+          "english": "My friend was not lively last night.",
+          "japanese_polite": "ゆうべ、ともだちは元気ではありませんでした。",
+          "japanese_plain": "ゆうべ、ともだちは元気じゃなかった。"
         },
         {
-          "english": "That was not healthy",
-          "japanese_polite": "それは元気ではありませんでした",
-          "japanese_plain": "それは元気じゃなかった"
+          "english": "The children were not lively at school.",
+          "japanese_polite": "がっこうで子どもたちは元気ではありませんでした。",
+          "japanese_plain": "がっこうで子どもたちは元気じゃなかった。"
         },
         {
-          "english": "It was not healthy",
-          "japanese_polite": "あれは元気ではありませんでした",
-          "japanese_plain": "あれは元気じゃなかった"
+          "english": "I wasn’t lively because I was tired.",
+          "japanese_polite": "つかれていたので、わたしは元気ではありませんでした。",
+          "japanese_plain": "つかれていたので、わたしは元気じゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it healthily",
-          "japanese_polite": "かれは元気にします",
-          "japanese_plain": "かれは元気にする"
+          "english": "The boy answered loudly and lively.",
+          "japanese_polite": "その男の子は元気にこたえました。",
+          "japanese_plain": "その男の子は元気にこたえた。"
         },
         {
-          "english": "She does it healthily",
-          "japanese_polite": "かのじょは元気にします",
-          "japanese_plain": "かのじょは元気にする"
+          "english": "The children played lively in the park.",
+          "japanese_polite": "子どもたちはこうえんで元気にあそびました。",
+          "japanese_plain": "子どもたちはこうえんで元気にあそんだ。"
         },
         {
-          "english": "They do it healthily",
-          "japanese_polite": "かれらは元気にします",
-          "japanese_plain": "かれらは元気にする"
+          "english": "My sister sang lively at home.",
+          "japanese_polite": "いもうとはいえで元気にうたいました。",
+          "japanese_plain": "いもうとはいえで元気にうたった。"
         }
       ]
     }
@@ -150,89 +150,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is delicious",
-          "japanese_polite": "これはおいしいです",
-          "japanese_plain": "これはおいしい"
+          "english": "This ramen is delicious.",
+          "japanese_polite": "このラーメンはおいしいです。",
+          "japanese_plain": "このラーメンはおいしい。"
         },
         {
-          "english": "That is delicious",
-          "japanese_polite": "それはおいしいです",
-          "japanese_plain": "それはおいしい"
+          "english": "The apple is delicious.",
+          "japanese_polite": "りんごはおいしいです。",
+          "japanese_plain": "りんごはおいしい。"
         },
         {
-          "english": "It is delicious",
-          "japanese_polite": "あれはおいしいです",
-          "japanese_plain": "あれはおいしい"
+          "english": "That restaurant’s curry is delicious.",
+          "japanese_polite": "あのレストランのカレーはおいしいです。",
+          "japanese_plain": "あのレストランのカレーはおいしい。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not delicious",
-          "japanese_polite": "これはおいしくないです",
-          "japanese_plain": "これはおいしくない"
+          "english": "This soup is not delicious.",
+          "japanese_polite": "このスープはおいしくないです。",
+          "japanese_plain": "このスープはおいしくない。"
         },
         {
-          "english": "That is not delicious",
-          "japanese_polite": "それはおいしくないです",
-          "japanese_plain": "それはおいしくない"
+          "english": "The juice isn’t very delicious.",
+          "japanese_polite": "ジュースはあまりおいしくないです。",
+          "japanese_plain": "ジュースはあまりおいしくない。"
         },
         {
-          "english": "It is not delicious",
-          "japanese_polite": "あれはおいしくないです",
-          "japanese_plain": "あれはおいしくない"
+          "english": "The bread is not delicious today.",
+          "japanese_polite": "きょうのパンはおいしくないです。",
+          "japanese_plain": "きょうのパンはおいしくない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was delicious",
-          "japanese_polite": "これはおいしかったです",
-          "japanese_plain": "これはおいしかった"
+          "english": "The sushi was delicious.",
+          "japanese_polite": "すしはおいしかったです。",
+          "japanese_plain": "すしはおいしかった。"
         },
         {
-          "english": "That was delicious",
-          "japanese_polite": "それはおいしかったです",
-          "japanese_plain": "それはおいしかった"
+          "english": "The dinner last night was delicious.",
+          "japanese_polite": "ゆうべのばんごはんはおいしかったです。",
+          "japanese_plain": "ゆうべのばんごはんはおいしかった。"
         },
         {
-          "english": "It was delicious",
-          "japanese_polite": "あれはおいしかったです",
-          "japanese_plain": "あれはおいしかった"
+          "english": "That cake was really delicious.",
+          "japanese_polite": "あのケーキはとてもおいしかったです。",
+          "japanese_plain": "あのケーキはとてもおいしかった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not delicious",
-          "japanese_polite": "これはおいしくなかったです",
-          "japanese_plain": "これはおいしくなかった"
+          "english": "The fish wasn’t delicious.",
+          "japanese_polite": "さかなはおいしくなかったです。",
+          "japanese_plain": "さかなはおいしくなかった。"
         },
         {
-          "english": "That was not delicious",
-          "japanese_polite": "それはおいしくなかったです",
-          "japanese_plain": "それはおいしくなかった"
+          "english": "Yesterday’s lunch wasn’t delicious.",
+          "japanese_polite": "きのうのひるごはんはおいしくなかったです。",
+          "japanese_plain": "きのうのひるごはんはおいしくなかった。"
         },
         {
-          "english": "It was not delicious",
-          "japanese_polite": "あれはおいしくなかったです",
-          "japanese_plain": "あれはおいしくなかった"
+          "english": "The noodles weren’t delicious at all.",
+          "japanese_polite": "めんはぜんぜんおいしくなかったです。",
+          "japanese_plain": "めんはぜんぜんおいしくなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it deliciously",
-          "japanese_polite": "かれはおいしくします",
-          "japanese_plain": "かれはおいしくする"
+          "english": "She ate the cake deliciously.",
+          "japanese_polite": "かのじょはケーキをおいしくたべました。",
+          "japanese_plain": "かのじょはケーキをおいしくたべた。"
         },
         {
-          "english": "She does it deliciously",
-          "japanese_polite": "かのじょはおいしくします",
-          "japanese_plain": "かのじょはおいしくする"
+          "english": "I drank the tea deliciously.",
+          "japanese_polite": "わたしはおちゃをおいしくのみました。",
+          "japanese_plain": "わたしはおちゃをおいしくのんだ。"
         },
         {
-          "english": "They do it deliciously",
-          "japanese_polite": "かれらはおいしくします",
-          "japanese_plain": "かれらはおいしくする"
+          "english": "The children ate lunch deliciously.",
+          "japanese_polite": "こどもたちはおいしくひるごはんをたべました。",
+          "japanese_plain": "こどもたちはおいしくひるごはんをたべた。"
         }
       ]
     }
@@ -269,89 +269,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is young",
-          "japanese_polite": "これは若いです",
-          "japanese_plain": "これは若い"
+          "english": "My aunt is young.",
+          "japanese_polite": "わたしのおばは若いです。",
+          "japanese_plain": "わたしのおばは若い。"
         },
         {
-          "english": "That is young",
-          "japanese_polite": "それは若いです",
-          "japanese_plain": "それは若い"
+          "english": "That singer is young and popular.",
+          "japanese_polite": "あのかしゅは若くてにんきがあります。",
+          "japanese_plain": "あのかしゅは若くてにんきがある。"
         },
         {
-          "english": "It is young",
-          "japanese_polite": "あれは若いです",
-          "japanese_plain": "あれは若い"
+          "english": "My sister is still young.",
+          "japanese_polite": "いもうとはまだ若いです。",
+          "japanese_plain": "いもうとはまだ若い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not young",
-          "japanese_polite": "これは若くないです",
-          "japanese_plain": "これは若くない"
+          "english": "My uncle is not young.",
+          "japanese_polite": "わたしのおじは若くないです。",
+          "japanese_plain": "わたしのおじは若くない。"
         },
         {
-          "english": "That is not young",
-          "japanese_polite": "それは若くないです",
-          "japanese_plain": "それは若くない"
+          "english": "This actor doesn’t look young.",
+          "japanese_polite": "このはいゆうは若くないです。",
+          "japanese_plain": "このはいゆうは若くない。"
         },
         {
-          "english": "It is not young",
-          "japanese_polite": "あれは若くないです",
-          "japanese_plain": "あれは若くない"
+          "english": "My dog isn’t young anymore.",
+          "japanese_polite": "わたしのいぬはもう若くないです。",
+          "japanese_plain": "わたしのいぬはもう若くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was young",
-          "japanese_polite": "これは若かったです",
-          "japanese_plain": "これは若かった"
+          "english": "My grandfather was young once.",
+          "japanese_polite": "おじいさんはむかし若かったです。",
+          "japanese_plain": "おじいさんはむかし若かった。"
         },
         {
-          "english": "That was young",
-          "japanese_polite": "それは若かったです",
-          "japanese_plain": "それは若かった"
+          "english": "That teacher was very young.",
+          "japanese_polite": "あのせんせいはとても若かったです。",
+          "japanese_plain": "あのせんせいはとても若かった。"
         },
         {
-          "english": "It was young",
-          "japanese_polite": "あれは若かったです",
-          "japanese_plain": "あれは若かった"
+          "english": "The singer was young at that time.",
+          "japanese_polite": "そのとき、かしゅは若かったです。",
+          "japanese_plain": "そのとき、かしゅは若かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not young",
-          "japanese_polite": "これは若くなかったです",
-          "japanese_plain": "これは若くなかった"
+          "english": "My father wasn’t young in that photo.",
+          "japanese_polite": "そのしゃしんで父は若くなかったです。",
+          "japanese_plain": "そのしゃしんで父は若くなかった。"
         },
         {
-          "english": "That was not young",
-          "japanese_polite": "それは若くなかったです",
-          "japanese_plain": "それは若くなかった"
+          "english": "The man wasn’t as young as he said.",
+          "japanese_polite": "その男の人は言ったほど若くなかったです。",
+          "japanese_plain": "その男の人は言ったほど若くなかった。"
         },
         {
-          "english": "It was not young",
-          "japanese_polite": "あれは若くなかったです",
-          "japanese_plain": "あれは若くなかった"
+          "english": "The coach wasn’t young when I met him.",
+          "japanese_polite": "あったとき、コーチは若くなかったです。",
+          "japanese_plain": "あったとき、コーチは若くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it youngly",
-          "japanese_polite": "かれは若くします",
-          "japanese_plain": "かれは若くする"
+          "english": "She spoke in a youthful way.",
+          "japanese_polite": "かのじょは若く話しました。",
+          "japanese_plain": "かのじょは若く話した。"
         },
         {
-          "english": "She does it youngly",
-          "japanese_polite": "かのじょは若くします",
-          "japanese_plain": "かのじょは若くする"
+          "english": "The actor danced youthfully.",
+          "japanese_polite": "はいゆうは若くおどりました。",
+          "japanese_plain": "はいゆうは若くおどった。"
         },
         {
-          "english": "They do it youngly",
-          "japanese_polite": "かれらは若くします",
-          "japanese_plain": "かれらは若くする"
+          "english": "He answered in a young voice.",
+          "japanese_polite": "かれは若くこたえました。",
+          "japanese_plain": "かれは若くこたえた。"
         }
       ]
     }
@@ -359,7 +359,7 @@
   "嫌いな": {
     "title": "嫌いな Conjugation Table",
     "type": "na-adjective",
-    "meaning": "disliked",
+    "meaning": "disliked; hated",
     "conjugations": [
       {
         "conjugation": "Base Form",
@@ -388,89 +388,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is disliked",
-          "japanese_polite": "これは嫌いです",
-          "japanese_plain": "これは嫌いだ"
+          "english": "I dislike tomatoes.",
+          "japanese_polite": "わたしはトマトが嫌いです。",
+          "japanese_plain": "わたしはトマトが嫌いだ。"
         },
         {
-          "english": "That is disliked",
-          "japanese_polite": "それは嫌いです",
-          "japanese_plain": "それは嫌いだ"
+          "english": "My brother dislikes math.",
+          "japanese_polite": "弟はすうがくが嫌いです。",
+          "japanese_plain": "弟はすうがくが嫌いだ。"
         },
         {
-          "english": "It is disliked",
-          "japanese_polite": "あれは嫌いです",
-          "japanese_plain": "あれは嫌いだ"
+          "english": "She dislikes dogs.",
+          "japanese_polite": "かのじょはいぬが嫌いです。",
+          "japanese_plain": "かのじょはいぬが嫌いだ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not disliked",
-          "japanese_polite": "これは嫌いではありません",
-          "japanese_plain": "これは嫌いじゃない"
+          "english": "I don’t dislike natto.",
+          "japanese_polite": "わたしはなっとうが嫌いではありません。",
+          "japanese_plain": "わたしはなっとうが嫌いじゃない。"
         },
         {
-          "english": "That is not disliked",
-          "japanese_polite": "それは嫌いではありません",
-          "japanese_plain": "それは嫌いじゃない"
+          "english": "He doesn’t dislike English.",
+          "japanese_polite": "かれはえいごが嫌いではありません。",
+          "japanese_plain": "かれはえいごが嫌いじゃない。"
         },
         {
-          "english": "It is not disliked",
-          "japanese_polite": "あれは嫌いではありません",
-          "japanese_plain": "あれは嫌いじゃない"
+          "english": "My sister doesn’t dislike carrots.",
+          "japanese_polite": "いもうとはにんじんが嫌いではありません。",
+          "japanese_plain": "いもうとはにんじんが嫌いじゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was disliked",
-          "japanese_polite": "これは嫌いでした",
-          "japanese_plain": "これは嫌いだった"
+          "english": "When I was a child, I hated milk.",
+          "japanese_polite": "こどものとき、ぎゅうにゅうが嫌いでした。",
+          "japanese_plain": "こどものとき、ぎゅうにゅうが嫌いだった。"
         },
         {
-          "english": "That was disliked",
-          "japanese_polite": "それは嫌いでした",
-          "japanese_plain": "それは嫌いだった"
+          "english": "My friend hated school.",
+          "japanese_polite": "ともだちはがっこうが嫌いでした。",
+          "japanese_plain": "ともだちはがっこうが嫌いだった。"
         },
         {
-          "english": "It was disliked",
-          "japanese_polite": "あれは嫌いでした",
-          "japanese_plain": "あれは嫌いだった"
+          "english": "She hated vegetables.",
+          "japanese_polite": "かのじょはやさいが嫌いでした。",
+          "japanese_plain": "かのじょはやさいが嫌いだった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not disliked",
-          "japanese_polite": "これは嫌いではありませんでした",
-          "japanese_plain": "これは嫌いじゃなかった"
+          "english": "I didn’t hate natto when I was a child.",
+          "japanese_polite": "こどものとき、なっとうが嫌いではありませんでした。",
+          "japanese_plain": "こどものとき、なっとうが嫌いじゃなかった。"
         },
         {
-          "english": "That was not disliked",
-          "japanese_polite": "それは嫌いではありませんでした",
-          "japanese_plain": "それは嫌いじゃなかった"
+          "english": "He wasn’t a person who hated sports.",
+          "japanese_polite": "かれはスポーツが嫌いではありませんでした。",
+          "japanese_plain": "かれはスポーツが嫌いじゃなかった。"
         },
         {
-          "english": "It was not disliked",
-          "japanese_polite": "あれは嫌いではありませんでした",
-          "japanese_plain": "あれは嫌いじゃなかった"
+          "english": "My mother didn’t hate coffee.",
+          "japanese_polite": "母はコーヒーが嫌いではありませんでした。",
+          "japanese_plain": "母はコーヒーが嫌いじゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it dislikedly",
-          "japanese_polite": "かれは嫌いにします",
-          "japanese_plain": "かれは嫌いにする"
+          "english": "He looked at the bug with dislike.",
+          "japanese_polite": "かれはむしを嫌いに見ました。",
+          "japanese_plain": "かれはむしを嫌いに見た。"
         },
         {
-          "english": "She does it dislikedly",
-          "japanese_polite": "かのじょは嫌いにします",
-          "japanese_plain": "かのじょは嫌いにする"
+          "english": "She spoke about it with dislike.",
+          "japanese_polite": "かのじょはそれについて嫌いに話しました。",
+          "japanese_plain": "かのじょはそれについて嫌いに話した。"
         },
         {
-          "english": "They do it dislikedly",
-          "japanese_polite": "かれらは嫌いにします",
-          "japanese_plain": "かれらは嫌いにする"
+          "english": "The boy looked at the food with dislike.",
+          "japanese_polite": "その男の子はたべものを嫌いに見ました。",
+          "japanese_plain": "その男の子はたべものを嫌いに見た。"
         }
       ]
     }
@@ -507,89 +507,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is big",
-          "japanese_polite": "これは大きいです",
-          "japanese_plain": "これは大きい"
+          "english": "That house is big.",
+          "japanese_polite": "あのいえは大きいです。",
+          "japanese_plain": "あのいえは大きい。"
         },
         {
-          "english": "That is big",
-          "japanese_polite": "それは大きいです",
-          "japanese_plain": "それは大きい"
+          "english": "The dog is big.",
+          "japanese_polite": "そのいぬは大きいです。",
+          "japanese_plain": "そのいぬは大きい。"
         },
         {
-          "english": "It is big",
-          "japanese_polite": "あれは大きいです",
-          "japanese_plain": "あれは大きい"
+          "english": "This bag is really big.",
+          "japanese_polite": "このかばんはとても大きいです。",
+          "japanese_plain": "このかばんはとても大きい。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not big",
-          "japanese_polite": "これは大きくないです",
-          "japanese_plain": "これは大きくない"
+          "english": "This room is not big.",
+          "japanese_polite": "このへやは大きくないです。",
+          "japanese_plain": "このへやは大きくない。"
         },
         {
-          "english": "That is not big",
-          "japanese_polite": "それは大きくないです",
-          "japanese_plain": "それは大きくない"
+          "english": "The box isn’t very big.",
+          "japanese_polite": "このはこはあまり大きくないです。",
+          "japanese_plain": "このはこはあまり大きくない。"
         },
         {
-          "english": "It is not big",
-          "japanese_polite": "あれは大きくないです",
-          "japanese_plain": "あれは大きくない"
+          "english": "My TV is not big.",
+          "japanese_polite": "わたしのテレビは大きくないです。",
+          "japanese_plain": "わたしのテレビは大きくない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was big",
-          "japanese_polite": "これは大きかったです",
-          "japanese_plain": "これは大きかった"
+          "english": "That hotel was big.",
+          "japanese_polite": "あのホテルは大きかったです。",
+          "japanese_plain": "あのホテルは大きかった。"
         },
         {
-          "english": "That was big",
-          "japanese_polite": "それは大きかったです",
-          "japanese_plain": "それは大きかった"
+          "english": "The cake was big.",
+          "japanese_polite": "ケーキは大きかったです。",
+          "japanese_plain": "ケーキは大きかった。"
         },
         {
-          "english": "It was big",
-          "japanese_polite": "あれは大きかったです",
-          "japanese_plain": "あれは大きかった"
+          "english": "The fish I caught was big.",
+          "japanese_polite": "つったさかなは大きかったです。",
+          "japanese_plain": "つったさかなは大きかった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not big",
-          "japanese_polite": "これは大きくなかったです",
-          "japanese_plain": "これは大きくなかった"
+          "english": "The park was not big.",
+          "japanese_polite": "そのこうえんは大きくなかったです。",
+          "japanese_plain": "そのこうえんは大きくなかった。"
         },
         {
-          "english": "That was not big",
-          "japanese_polite": "それは大きくなかったです",
-          "japanese_plain": "それは大きくなかった"
+          "english": "The room wasn’t as big as I expected.",
+          "japanese_polite": "へやはおもったほど大きくなかったです。",
+          "japanese_plain": "へやはおもったほど大きくなかった。"
         },
         {
-          "english": "It was not big",
-          "japanese_polite": "あれは大きくなかったです",
-          "japanese_plain": "あれは大きくなかった"
+          "english": "That pizza wasn’t big.",
+          "japanese_polite": "あのピザは大きくなかったです。",
+          "japanese_plain": "あのピザは大きくなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it bigly",
-          "japanese_polite": "かれは大きくします",
-          "japanese_plain": "かれは大きくする"
+          "english": "He opened the door wide.",
+          "japanese_polite": "かれはドアを大きくあけました。",
+          "japanese_plain": "かれはドアを大きくあけた。"
         },
         {
-          "english": "She does it bigly",
-          "japanese_polite": "かのじょは大きくします",
-          "japanese_plain": "かのじょは大きくする"
+          "english": "The child shouted loudly.",
+          "japanese_polite": "こどもは大きくさけびました。",
+          "japanese_plain": "こどもは大きくさけんだ。"
         },
         {
-          "english": "They do it bigly",
-          "japanese_polite": "かれらは大きくします",
-          "japanese_plain": "かれらは大きくする"
+          "english": "She breathed deeply.",
+          "japanese_polite": "かのじょは大きくいきをしました。",
+          "japanese_plain": "かのじょは大きくいきをした。"
         }
       ]
     }
@@ -626,89 +626,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is fast",
-          "japanese_polite": "これは速いです",
-          "japanese_plain": "これは速い"
+          "english": "This car is fast.",
+          "japanese_polite": "このくるまは速いです。",
+          "japanese_plain": "このくるまは速い。"
         },
         {
-          "english": "That is fast",
-          "japanese_polite": "それは速いです",
-          "japanese_plain": "それは速い"
+          "english": "My younger brother is fast at running.",
+          "japanese_polite": "弟ははしるのが速いです。",
+          "japanese_plain": "弟ははしるのが速い。"
         },
         {
-          "english": "It is fast",
-          "japanese_polite": "あれは速いです",
-          "japanese_plain": "あれは速い"
+          "english": "That computer is fast.",
+          "japanese_polite": "あのコンピューターは速いです。",
+          "japanese_plain": "あのコンピューターは速い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not fast",
-          "japanese_polite": "これは速くないです",
-          "japanese_plain": "これは速くない"
+          "english": "This bike is not fast.",
+          "japanese_polite": "このじてんしゃは速くないです。",
+          "japanese_plain": "このじてんしゃは速くない。"
         },
         {
-          "english": "That is not fast",
-          "japanese_polite": "それは速くないです",
-          "japanese_plain": "それは速くない"
+          "english": "He is not fast at typing.",
+          "japanese_polite": "かれはタイピングが速くないです。",
+          "japanese_plain": "かれはタイピングが速くない。"
         },
         {
-          "english": "It is not fast",
-          "japanese_polite": "あれは速くないです",
-          "japanese_plain": "あれは速くない"
+          "english": "The bus isn't very fast.",
+          "japanese_polite": "バスはあまり速くないです。",
+          "japanese_plain": "バスはあまり速くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was fast",
-          "japanese_polite": "これは速かったです",
-          "japanese_plain": "これは速かった"
+          "english": "The train was fast.",
+          "japanese_polite": "でんしゃは速かったです。",
+          "japanese_plain": "でんしゃは速かった。"
         },
         {
-          "english": "That was fast",
-          "japanese_polite": "それは速かったです",
-          "japanese_plain": "それは速かった"
+          "english": "My friend's answer was fast.",
+          "japanese_polite": "ともだちのこたえは速かったです。",
+          "japanese_plain": "ともだちのこたえは速かった。"
         },
         {
-          "english": "It was fast",
-          "japanese_polite": "あれは速かったです",
-          "japanese_plain": "あれは速かった"
+          "english": "The delivery was fast.",
+          "japanese_polite": "はいたつは速かったです。",
+          "japanese_plain": "はいたつは速かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not fast",
-          "japanese_polite": "これは速くなかったです",
-          "japanese_plain": "これは速くなかった"
+          "english": "This computer was not fast.",
+          "japanese_polite": "このコンピューターは速くなかったです。",
+          "japanese_plain": "このコンピューターは速くなかった。"
         },
         {
-          "english": "That was not fast",
-          "japanese_polite": "それは速くなかったです",
-          "japanese_plain": "それは速くなかった"
+          "english": "The player wasn’t fast in the game.",
+          "japanese_polite": "ゲームでそのプレイヤーは速くなかったです。",
+          "japanese_plain": "ゲームでそのプレイヤーは速くなかった。"
         },
         {
-          "english": "It was not fast",
-          "japanese_polite": "あれは速くなかったです",
-          "japanese_plain": "あれは速くなかった"
+          "english": "The response wasn’t fast.",
+          "japanese_polite": "へんじは速くなかったです。",
+          "japanese_plain": "へんじは速くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it fast",
-          "japanese_polite": "かれは速くします",
-          "japanese_plain": "かれは速くする"
+          "english": "He ran fast.",
+          "japanese_polite": "かれは速くはしりました。",
+          "japanese_plain": "かれは速くはしった。"
         },
         {
-          "english": "She does it fast",
-          "japanese_polite": "かのじょは速くします",
-          "japanese_plain": "かのじょは速くする"
+          "english": "She answered quickly.",
+          "japanese_polite": "かのじょは速くこたえました。",
+          "japanese_plain": "かのじょは速くこたえた。"
         },
         {
-          "english": "They do it fast",
-          "japanese_polite": "かれらは速くします",
-          "japanese_plain": "かれらは速くする"
+          "english": "The cat moved fast.",
+          "japanese_polite": "ねこは速くうごきました。",
+          "japanese_plain": "ねこは速くうごいた。"
         }
       ]
     }
@@ -745,89 +745,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is quiet",
-          "japanese_polite": "これは静かです",
-          "japanese_plain": "これは静かだ"
+          "english": "The library is quiet.",
+          "japanese_polite": "としょかんは静かです。",
+          "japanese_plain": "としょかんは静かだ。"
         },
         {
-          "english": "That is quiet",
-          "japanese_polite": "それは静かです",
-          "japanese_plain": "それは静かだ"
+          "english": "My classroom is quiet.",
+          "japanese_polite": "わたしのきょうしつは静かです。",
+          "japanese_plain": "わたしのきょうしつは静かだ。"
         },
         {
-          "english": "It is quiet",
-          "japanese_polite": "あれは静かです",
-          "japanese_plain": "あれは静かだ"
+          "english": "That park is very quiet.",
+          "japanese_polite": "あのこうえんはとても静かです。",
+          "japanese_plain": "あのこうえんはとても静かだ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not quiet",
-          "japanese_polite": "これは静かではありません",
-          "japanese_plain": "これは静かじゃない"
+          "english": "This street is not quiet.",
+          "japanese_polite": "このとおりは静かではありません。",
+          "japanese_plain": "このとおりは静かじゃない。"
         },
         {
-          "english": "That is not quiet",
-          "japanese_polite": "それは静かではありません",
-          "japanese_plain": "それは静かじゃない"
+          "english": "My house is not very quiet.",
+          "japanese_polite": "わたしのいえはあまり静かではありません。",
+          "japanese_plain": "わたしのいえはあまり静かじゃない。"
         },
         {
-          "english": "It is not quiet",
-          "japanese_polite": "あれは静かではありません",
-          "japanese_plain": "あれは静かじゃない"
+          "english": "The cafe isn’t quiet.",
+          "japanese_polite": "カフェは静かではありません。",
+          "japanese_plain": "カフェは静かじゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was quiet",
-          "japanese_polite": "これは静かでした",
-          "japanese_plain": "これは静かだった"
+          "english": "The hotel was quiet.",
+          "japanese_polite": "ホテルは静かでした。",
+          "japanese_plain": "ホテルは静かだった。"
         },
         {
-          "english": "That was quiet",
-          "japanese_polite": "それは静かでした",
-          "japanese_plain": "それは静かだった"
+          "english": "The classroom was quiet this morning.",
+          "japanese_polite": "けさのきょうしつは静かでした。",
+          "japanese_plain": "けさのきょうしつは静かだった。"
         },
         {
-          "english": "It was quiet",
-          "japanese_polite": "あれは静かでした",
-          "japanese_plain": "あれは静かだった"
+          "english": "The park was very quiet yesterday.",
+          "japanese_polite": "きのうのこうえんはとても静かでした。",
+          "japanese_plain": "きのうのこうえんはとても静かだった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not quiet",
-          "japanese_polite": "これは静かではありませんでした",
-          "japanese_plain": "これは静かじゃなかった"
+          "english": "The train wasn’t quiet.",
+          "japanese_polite": "でんしゃは静かではありませんでした。",
+          "japanese_plain": "でんしゃは静かじゃなかった。"
         },
         {
-          "english": "That was not quiet",
-          "japanese_polite": "それは静かではありませんでした",
-          "japanese_plain": "それは静かじゃなかった"
+          "english": "My room wasn’t quiet last night.",
+          "japanese_polite": "ゆうべ、わたしのへやは静かではありませんでした。",
+          "japanese_plain": "ゆうべ、わたしのへやは静かじゃなかった。"
         },
         {
-          "english": "It was not quiet",
-          "japanese_polite": "あれは静かではありませんでした",
-          "japanese_plain": "あれは静かじゃなかった"
+          "english": "The restaurant wasn't as quiet as I thought.",
+          "japanese_polite": "レストランはおもったほど静かではありませんでした。",
+          "japanese_plain": "レストランはおもったほど静かじゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it quietly",
-          "japanese_polite": "かれは静かにします",
-          "japanese_plain": "かれは静かにする"
+          "english": "The student listened quietly.",
+          "japanese_polite": "せいとは静かにききました。",
+          "japanese_plain": "せいとは静かにきいた。"
         },
         {
-          "english": "She does it quietly",
-          "japanese_polite": "かのじょは静かにします",
-          "japanese_plain": "かのじょは静かにする"
+          "english": "She entered the room quietly.",
+          "japanese_polite": "かのじょは静かにへやにはいりました。",
+          "japanese_plain": "かのじょは静かにへやにはいった。"
         },
         {
-          "english": "They do it quietly",
-          "japanese_polite": "かれらは静かにします",
-          "japanese_plain": "かれらは静かにする"
+          "english": "The cat walked quietly.",
+          "japanese_polite": "ねこは静かにあるきました。",
+          "japanese_plain": "ねこは静かにあるいた。"
         }
       ]
     }
@@ -864,89 +864,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is interesting",
-          "japanese_polite": "これは面白いです",
-          "japanese_plain": "これは面白い"
+          "english": "This manga is interesting.",
+          "japanese_polite": "このまんがは面白いです。",
+          "japanese_plain": "このまんがは面白い。"
         },
         {
-          "english": "That is interesting",
-          "japanese_polite": "それは面白いです",
-          "japanese_plain": "それは面白い"
+          "english": "That teacher is funny.",
+          "japanese_polite": "あのせんせいは面白いです。",
+          "japanese_plain": "あのせんせいは面白い。"
         },
         {
-          "english": "It is interesting",
-          "japanese_polite": "あれは面白いです",
-          "japanese_plain": "あれは面白い"
+          "english": "The game is really interesting.",
+          "japanese_polite": "そのゲームはとても面白いです。",
+          "japanese_plain": "そのゲームはとても面白い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not interesting",
-          "japanese_polite": "これは面白くないです",
-          "japanese_plain": "これは面白くない"
+          "english": "This book is not interesting.",
+          "japanese_polite": "このほんは面白くないです。",
+          "japanese_plain": "このほんは面白くない。"
         },
         {
-          "english": "That is not interesting",
-          "japanese_polite": "それは面白くないです",
-          "japanese_plain": "それは面白くない"
+          "english": "The movie isn't funny.",
+          "japanese_polite": "えいがは面白くないです。",
+          "japanese_plain": "えいがは面白くない。"
         },
         {
-          "english": "It is not interesting",
-          "japanese_polite": "あれは面白くないです",
-          "japanese_plain": "あれは面白くない"
+          "english": "My brother's story isn't interesting.",
+          "japanese_polite": "おとうとのはなしは面白くないです。",
+          "japanese_plain": "おとうとのはなしは面白くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was interesting",
-          "japanese_polite": "これは面白かったです",
-          "japanese_plain": "これは面白かった"
+          "english": "The show was interesting.",
+          "japanese_polite": "そのばんぐみは面白かったです。",
+          "japanese_plain": "そのばんぐみは面白かった。"
         },
         {
-          "english": "That was interesting",
-          "japanese_polite": "それは面白かったです",
-          "japanese_plain": "それは面白かった"
+          "english": "Yesterday’s class was very funny.",
+          "japanese_polite": "きのうのじゅぎょうはとても面白かったです。",
+          "japanese_plain": "きのうのじゅぎょうはとても面白かった。"
         },
         {
-          "english": "It was interesting",
-          "japanese_polite": "あれは面白かったです",
-          "japanese_plain": "あれは面白かった"
+          "english": "The anime was interesting.",
+          "japanese_polite": "アニメは面白かったです。",
+          "japanese_plain": "アニメは面白かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not interesting",
-          "japanese_polite": "これは面白くなかったです",
-          "japanese_plain": "これは面白くなかった"
+          "english": "The drama wasn’t interesting.",
+          "japanese_polite": "そのドラマは面白くなかったです。",
+          "japanese_plain": "そのドラマは面白くなかった。"
         },
         {
-          "english": "That was not interesting",
-          "japanese_polite": "それは面白くなかったです",
-          "japanese_plain": "それは面白くなかった"
+          "english": "The video wasn’t very funny.",
+          "japanese_polite": "ビデオはあまり面白くなかったです。",
+          "japanese_plain": "ビデオはあまり面白くなかった。"
         },
         {
-          "english": "It was not interesting",
-          "japanese_polite": "あれは面白くなかったです",
-          "japanese_plain": "あれは面白くなかった"
+          "english": "The book wasn’t as interesting as I thought.",
+          "japanese_polite": "ほんはおもったほど面白くなかったです。",
+          "japanese_plain": "ほんはおもったほど面白くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it interestingly",
-          "japanese_polite": "かれは面白くします",
-          "japanese_plain": "かれは面白くする"
+          "english": "The teacher talked in an interesting way.",
+          "japanese_polite": "せんせいは面白く話しました。",
+          "japanese_plain": "せんせいは面白く話した。"
         },
         {
-          "english": "She does it interestingly",
-          "japanese_polite": "かのじょは面白くします",
-          "japanese_plain": "かのじょは面白くする"
+          "english": "She explained it interestingly.",
+          "japanese_polite": "かのじょは面白くせつめいしました。",
+          "japanese_plain": "かのじょは面白くせつめいした。"
         },
         {
-          "english": "They do it interestingly",
-          "japanese_polite": "かれらは面白くします",
-          "japanese_plain": "かれらは面白くする"
+          "english": "The child answered interestingly.",
+          "japanese_polite": "こどもは面白くこたえました。",
+          "japanese_plain": "こどもは面白くこたえた。"
         }
       ]
     }
@@ -983,89 +983,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is convenient",
-          "japanese_polite": "これは便利です",
-          "japanese_plain": "これは便利だ"
+          "english": "This app is convenient.",
+          "japanese_polite": "このアプリは便利です。",
+          "japanese_plain": "このアプリは便利だ。"
         },
         {
-          "english": "That is convenient",
-          "japanese_polite": "それは便利です",
-          "japanese_plain": "それは便利だ"
+          "english": "That train station is convenient.",
+          "japanese_polite": "あのえきは便利です。",
+          "japanese_plain": "あのえきは便利だ。"
         },
         {
-          "english": "It is convenient",
-          "japanese_polite": "あれは便利です",
-          "japanese_plain": "あれは便利だ"
+          "english": "The internet is very convenient.",
+          "japanese_polite": "インターネットはとても便利です。",
+          "japanese_plain": "インターネットはとても便利だ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not convenient",
-          "japanese_polite": "これは便利ではありません",
-          "japanese_plain": "これは便利じゃない"
+          "english": "This system is not convenient.",
+          "japanese_polite": "このシステムは便利ではありません。",
+          "japanese_plain": "このシステムは便利じゃない。"
         },
         {
-          "english": "That is not convenient",
-          "japanese_polite": "それは便利ではありません",
-          "japanese_plain": "それは便利じゃない"
+          "english": "My bag isn’t convenient for travel.",
+          "japanese_polite": "わたしのかばんはりょこうに便利ではありません。",
+          "japanese_plain": "わたしのかばんはりょこうに便利じゃない。"
         },
         {
-          "english": "It is not convenient",
-          "japanese_polite": "あれは便利ではありません",
-          "japanese_plain": "あれは便利じゃない"
+          "english": "This app isn’t very convenient.",
+          "japanese_polite": "このアプリはあまり便利ではありません。",
+          "japanese_plain": "このアプリはあまり便利じゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was convenient",
-          "japanese_polite": "これは便利でした",
-          "japanese_plain": "これは便利だった"
+          "english": "The hotel was convenient.",
+          "japanese_polite": "そのホテルは便利でした。",
+          "japanese_plain": "そのホテルは便利だった。"
         },
         {
-          "english": "That was convenient",
-          "japanese_polite": "それは便利でした",
-          "japanese_plain": "それは便利だった"
+          "english": "The new app was very convenient.",
+          "japanese_polite": "あたらしいアプリはとても便利でした。",
+          "japanese_plain": "あたらしいアプリはとても便利だった。"
         },
         {
-          "english": "It was convenient",
-          "japanese_polite": "あれは便利でした",
-          "japanese_plain": "あれは便利だった"
+          "english": "This bicycle was convenient in the city.",
+          "japanese_polite": "このじてんしゃはまちで便利でした。",
+          "japanese_plain": "このじてんしゃはまちで便利だった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not convenient",
-          "japanese_polite": "これは便利ではありませんでした",
-          "japanese_plain": "これは便利じゃなかった"
+          "english": "The map was not convenient.",
+          "japanese_polite": "そのちずは便利ではありませんでした。",
+          "japanese_plain": "そのちずは便利じゃなかった。"
         },
         {
-          "english": "That was not convenient",
-          "japanese_polite": "それは便利ではありませんでした",
-          "japanese_plain": "それは便利じゃなかった"
+          "english": "The train wasn’t convenient at night.",
+          "japanese_polite": "よるのでんしゃは便利ではありませんでした。",
+          "japanese_plain": "よるのでんしゃは便利じゃなかった。"
         },
         {
-          "english": "It was not convenient",
-          "japanese_polite": "あれは便利ではありませんでした",
-          "japanese_plain": "あれは便利じゃなかった"
+          "english": "The bag wasn't as convenient as I expected.",
+          "japanese_polite": "かばんはおもったほど便利ではありませんでした。",
+          "japanese_plain": "かばんはおもったほど便利じゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it conveniently",
-          "japanese_polite": "かれは便利にします",
-          "japanese_plain": "かれは便利にする"
+          "english": "I used it conveniently at school.",
+          "japanese_polite": "がっこうで便利に使いました。",
+          "japanese_plain": "がっこうで便利に使った。"
         },
         {
-          "english": "She does it conveniently",
-          "japanese_polite": "かのじょは便利にします",
-          "japanese_plain": "かのじょは便利にする"
+          "english": "She studied Japanese conveniently online.",
+          "japanese_polite": "かのじょはオンラインで便利に日本語をべんきょうしました。",
+          "japanese_plain": "かのじょはオンラインで便利に日本語をべんきょうした。"
         },
         {
-          "english": "They do it conveniently",
-          "japanese_polite": "かれらは便利にします",
-          "japanese_plain": "かれらは便利にする"
+          "english": "He printed the file conveniently from home.",
+          "japanese_polite": "かれはうちで便利にファイルをプリントしました。",
+          "japanese_plain": "かれはうちで便利にファイルをプリントした。"
         }
       ]
     }
@@ -1102,89 +1102,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is fun",
-          "japanese_polite": "これはたのしいです",
-          "japanese_plain": "これはたのしい"
+          "english": "This game is fun.",
+          "japanese_polite": "このゲームはたのしいです。",
+          "japanese_plain": "このゲームはたのしい。"
         },
         {
-          "english": "That is fun",
-          "japanese_polite": "それはたのしいです",
-          "japanese_plain": "それはたのしい"
+          "english": "The Japanese class is fun.",
+          "japanese_polite": "にほんごのじゅぎょうはたのしいです。",
+          "japanese_plain": "にほんごのじゅぎょうはたのしい。"
         },
         {
-          "english": "It is fun",
-          "japanese_polite": "あれはたのしいです",
-          "japanese_plain": "あれはたのしい"
+          "english": "Talking with friends is fun.",
+          "japanese_polite": "ともだちと話すのはたのしいです。",
+          "japanese_plain": "ともだちと話すのはたのしい。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not fun",
-          "japanese_polite": "これはたのしくないです",
-          "japanese_plain": "これはたのしくない"
+          "english": "This book is not fun.",
+          "japanese_polite": "このほんはたのしくないです。",
+          "japanese_plain": "このほんはたのしくない。"
         },
         {
-          "english": "That is not fun",
-          "japanese_polite": "それはたのしくないです",
-          "japanese_plain": "それはたのしくない"
+          "english": "The homework isn’t fun.",
+          "japanese_polite": "しゅくだいはたのしくないです。",
+          "japanese_plain": "しゅくだいはたのしくない。"
         },
         {
-          "english": "It is not fun",
-          "japanese_polite": "あれはたのしくないです",
-          "japanese_plain": "あれはたのしくない"
+          "english": "That movie isn't very fun.",
+          "japanese_polite": "あのえいがはあまりたのしくないです。",
+          "japanese_plain": "あのえいがはあまりたのしくない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was fun",
-          "japanese_polite": "これはたのしかったです",
-          "japanese_plain": "これはたのしかった"
+          "english": "The picnic was fun.",
+          "japanese_polite": "ピクニックはたのしかったです。",
+          "japanese_plain": "ピクニックはたのしかった。"
         },
         {
-          "english": "That was fun",
-          "japanese_polite": "それはたのしかったです",
-          "japanese_plain": "それはたのしかった"
+          "english": "Yesterday’s class was really fun.",
+          "japanese_polite": "きのうのじゅぎょうはとてもたのしかったです。",
+          "japanese_plain": "きのうのじゅぎょうはとてもたのしかった。"
         },
         {
-          "english": "It was fun",
-          "japanese_polite": "あれはたのしかったです",
-          "japanese_plain": "あれはたのしかった"
+          "english": "The festival was fun.",
+          "japanese_polite": "おまつりはたのしかったです。",
+          "japanese_plain": "おまつりはたのしかった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not fun",
-          "japanese_polite": "これはたのしくなかったです",
-          "japanese_plain": "これはたのしくなかった"
+          "english": "The party wasn’t fun.",
+          "japanese_polite": "パーティーはたのしくなかったです。",
+          "japanese_plain": "パーティーはたのしくなかった。"
         },
         {
-          "english": "That was not fun",
-          "japanese_polite": "それはたのしくなかったです",
-          "japanese_plain": "それはたのしくなかった"
+          "english": "The event wasn’t very fun.",
+          "japanese_polite": "イベントはあまりたのしくなかったです。",
+          "japanese_plain": "イベントはあまりたのしくなかった。"
         },
         {
-          "english": "It was not fun",
-          "japanese_polite": "あれはたのしくなかったです",
-          "japanese_plain": "あれはたのしくなかった"
+          "english": "The class wasn’t as fun as I thought.",
+          "japanese_polite": "じゅぎょうはおもったほどたのしくなかったです。",
+          "japanese_plain": "じゅぎょうはおもったほどたのしくなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it funly",
-          "japanese_polite": "かれはたのしくします",
-          "japanese_plain": "かれはたのしくする"
+          "english": "We talked happily.",
+          "japanese_polite": "わたしたちはたのしく話しました。",
+          "japanese_plain": "わたしたちはたのしく話した。"
         },
         {
-          "english": "She does it funly",
-          "japanese_polite": "かのじょはたのしくします",
-          "japanese_plain": "かのじょはたのしくする"
+          "english": "The children played happily.",
+          "japanese_polite": "こどもたちはたのしくあそびました。",
+          "japanese_plain": "こどもたちはたのしくあそんだ。"
         },
         {
-          "english": "They do it funly",
-          "japanese_polite": "かれらはたのしくします",
-          "japanese_plain": "かれらはたのしくする"
+          "english": "She sang cheerfully.",
+          "japanese_polite": "かのじょはたのしくうたいました。",
+          "japanese_plain": "かのじょはたのしくうたった。"
         }
       ]
     }
@@ -1221,89 +1221,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is small",
-          "japanese_polite": "これは小さいです",
-          "japanese_plain": "これは小さい"
+          "english": "This apple is small.",
+          "japanese_polite": "このりんごは小さいです。",
+          "japanese_plain": "このりんごは小さい。"
         },
         {
-          "english": "That is small",
-          "japanese_polite": "それは小さいです",
-          "japanese_plain": "それは小さい"
+          "english": "My room is small.",
+          "japanese_polite": "わたしのへやは小さいです。",
+          "japanese_plain": "わたしのへやは小さい。"
         },
         {
-          "english": "It is small",
-          "japanese_polite": "あれは小さいです",
-          "japanese_plain": "あれは小さい"
+          "english": "That child is small.",
+          "japanese_polite": "あのこどもは小さいです。",
+          "japanese_plain": "あのこどもは小さい。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not small",
-          "japanese_polite": "これは小さくないです",
-          "japanese_plain": "これは小さくない"
+          "english": "This box is not small.",
+          "japanese_polite": "このはこは小さくないです。",
+          "japanese_plain": "このはこは小さくない。"
         },
         {
-          "english": "That is not small",
-          "japanese_polite": "それは小さくないです",
-          "japanese_plain": "それは小さくない"
+          "english": "The dog isn’t small.",
+          "japanese_polite": "そのいぬは小さくないです。",
+          "japanese_plain": "そのいぬは小さくない。"
         },
         {
-          "english": "It is not small",
-          "japanese_polite": "あれは小さくないです",
-          "japanese_plain": "あれは小さくない"
+          "english": "My hands aren't really small.",
+          "japanese_polite": "わたしのてはあまり小さくないです。",
+          "japanese_plain": "わたしのてはあまり小さくない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was small",
-          "japanese_polite": "これは小さかったです",
-          "japanese_plain": "これは小さかった"
+          "english": "The fish was small.",
+          "japanese_polite": "そのさかなは小さかったです。",
+          "japanese_plain": "そのさかなは小さかった。"
         },
         {
-          "english": "That was small",
-          "japanese_polite": "それは小さかったです",
-          "japanese_plain": "それは小さかった"
+          "english": "The classroom was small.",
+          "japanese_polite": "きょうしつは小さかったです。",
+          "japanese_plain": "きょうしつは小さかった。"
         },
         {
-          "english": "It was small",
-          "japanese_polite": "あれは小さかったです",
-          "japanese_plain": "あれは小さかった"
+          "english": "My shoes were small.",
+          "japanese_polite": "わたしのくつは小さかったです。",
+          "japanese_plain": "わたしのくつは小さかった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not small",
-          "japanese_polite": "これは小さくなかったです",
-          "japanese_plain": "これは小さくなかった"
+          "english": "The house was not small.",
+          "japanese_polite": "そのいえは小さくなかったです。",
+          "japanese_plain": "そのいえは小さくなかった。"
         },
         {
-          "english": "That was not small",
-          "japanese_polite": "それは小さくなかったです",
-          "japanese_plain": "それは小さくなかった"
+          "english": "The cup wasn’t very small.",
+          "japanese_polite": "そのカップはあまり小さくなかったです。",
+          "japanese_plain": "そのカップはあまり小さくなかった。"
         },
         {
-          "english": "It was not small",
-          "japanese_polite": "あれは小さくなかったです",
-          "japanese_plain": "あれは小さくなかった"
+          "english": "The room wasn't as small as I thought.",
+          "japanese_polite": "へやはおもったほど小さくなかったです。",
+          "japanese_plain": "へやはおもったほど小さくなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it smallly",
-          "japanese_polite": "かれは小さくします",
-          "japanese_plain": "かれは小さくする"
+          "english": "She spoke in a small voice.",
+          "japanese_polite": "かのじょは小さく話しました。",
+          "japanese_plain": "かのじょは小さく話した。"
         },
         {
-          "english": "She does it smallly",
-          "japanese_polite": "かのじょは小さくします",
-          "japanese_plain": "かのじょは小さくする"
+          "english": "The child walked quietly with small steps.",
+          "japanese_polite": "こどもは小さくあるきました。",
+          "japanese_plain": "こどもは小さくあるいた。"
         },
         {
-          "english": "They do it smallly",
-          "japanese_polite": "かれらは小さくします",
-          "japanese_plain": "かれらは小さくする"
+          "english": "He wrote his name in small letters.",
+          "japanese_polite": "かれは小さくなまえを書きました。",
+          "japanese_plain": "かれは小さくなまえを書いた。"
         }
       ]
     }
@@ -1340,89 +1340,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is famous",
-          "japanese_polite": "これは有名です",
-          "japanese_plain": "これは有名だ"
+          "english": "That singer is famous.",
+          "japanese_polite": "あのかしゅは有名です。",
+          "japanese_plain": "あのかしゅは有名だ。"
         },
         {
-          "english": "That is famous",
-          "japanese_polite": "それは有名です",
-          "japanese_plain": "それは有名だ"
+          "english": "This place is famous in Japan.",
+          "japanese_polite": "このばしょは日本で有名です。",
+          "japanese_plain": "このばしょは日本で有名だ。"
         },
         {
-          "english": "It is famous",
-          "japanese_polite": "あれは有名です",
-          "japanese_plain": "あれは有名だ"
+          "english": "Kyoto is a famous city.",
+          "japanese_polite": "きょうとは有名なしまいです。",
+          "japanese_plain": "きょうとは有名なしまいだ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not famous",
-          "japanese_polite": "これは有名ではありません",
-          "japanese_plain": "これは有名じゃない"
+          "english": "That actor is not famous.",
+          "japanese_polite": "あのはいゆうは有名ではありません。",
+          "japanese_plain": "あのはいゆうは有名じゃない。"
         },
         {
-          "english": "That is not famous",
-          "japanese_polite": "それは有名ではありません",
-          "japanese_plain": "それは有名じゃない"
+          "english": "This restaurant isn't famous.",
+          "japanese_polite": "このレストランは有名ではありません。",
+          "japanese_plain": "このレストランは有名じゃない。"
         },
         {
-          "english": "It is not famous",
-          "japanese_polite": "あれは有名ではありません",
-          "japanese_plain": "あれは有名じゃない"
+          "english": "My school is not very famous.",
+          "japanese_polite": "わたしのがっこうはあまり有名ではありません。",
+          "japanese_plain": "わたしのがっこうはあまり有名じゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was famous",
-          "japanese_polite": "これは有名でした",
-          "japanese_plain": "これは有名だった"
+          "english": "That artist was famous.",
+          "japanese_polite": "あのアーティストは有名でした。",
+          "japanese_plain": "あのアーティストは有名だった。"
         },
         {
-          "english": "That was famous",
-          "japanese_polite": "それは有名でした",
-          "japanese_plain": "それは有名だった"
+          "english": "This spot was famous a long time ago.",
+          "japanese_polite": "このばしょはむかし有名でした。",
+          "japanese_plain": "このばしょはむかし有名だった。"
         },
         {
-          "english": "It was famous",
-          "japanese_polite": "あれは有名でした",
-          "japanese_plain": "あれは有名だった"
+          "english": "My town was famous for apples.",
+          "japanese_polite": "わたしのまちはりんごで有名でした。",
+          "japanese_plain": "わたしのまちはりんごで有名だった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not famous",
-          "japanese_polite": "これは有名ではありませんでした",
-          "japanese_plain": "これは有名じゃなかった"
+          "english": "This place was not famous before.",
+          "japanese_polite": "このばしょはまえは有名ではありませんでした。",
+          "japanese_plain": "このばしょはまえは有名じゃなかった。"
         },
         {
-          "english": "That was not famous",
-          "japanese_polite": "それは有名ではありませんでした",
-          "japanese_plain": "それは有名じゃなかった"
+          "english": "That actor wasn’t very famous.",
+          "japanese_polite": "あのはいゆうはあまり有名ではありませんでした。",
+          "japanese_plain": "あのはいゆうはあまり有名じゃなかった。"
         },
         {
-          "english": "It was not famous",
-          "japanese_polite": "あれは有名ではありませんでした",
-          "japanese_plain": "あれは有名じゃなかった"
+          "english": "The school wasn’t as famous as I thought.",
+          "japanese_polite": "そのがっこうはおもったほど有名ではありませんでした。",
+          "japanese_plain": "そのがっこうはおもったほど有名じゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it famously",
-          "japanese_polite": "かれは有名にします",
-          "japanese_plain": "かれは有名にする"
+          "english": "She became famous on the internet.",
+          "japanese_polite": "かのじょはインターネットで有名になりました。",
+          "japanese_plain": "かのじょはインターネットで有名になった。"
         },
         {
-          "english": "She does it famously",
-          "japanese_polite": "かのじょは有名にします",
-          "japanese_plain": "かのじょは有名にする"
+          "english": "This dish became famous overseas.",
+          "japanese_polite": "このりょうりは海外で有名になりました。",
+          "japanese_plain": "このりょうりは海外で有名になった。"
         },
         {
-          "english": "They do it famously",
-          "japanese_polite": "かれらは有名にします",
-          "japanese_plain": "かれらは有名にする"
+          "english": "He is known as a famous teacher.",
+          "japanese_polite": "かれは有名なせんせいとして知られています。",
+          "japanese_plain": "かれは有名なせんせいとして知られている。"
         }
       ]
     }
@@ -1439,109 +1439,109 @@
       },
       {
         "conjugation": "Negative",
-        "polite": "いくないです",
-        "plain": "いくない"
+        "polite": "よくないです",
+        "plain": "よくない"
       },
       {
         "conjugation": "Past",
-        "polite": "いかったです",
-        "plain": "いかった"
+        "polite": "よかったです",
+        "plain": "よかった"
       },
       {
         "conjugation": "Past Negative",
-        "polite": "いくなかったです",
-        "plain": "いくなかった"
+        "polite": "よくなかったです",
+        "plain": "よくなかった"
       },
       {
         "conjugation": "Adverbial",
-        "polite": "いく",
-        "plain": "いく"
+        "polite": "よく",
+        "plain": "よく"
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is good",
-          "japanese_polite": "これはいいです",
-          "japanese_plain": "これはいい"
+          "english": "This book is good.",
+          "japanese_polite": "このほんはいいです。",
+          "japanese_plain": "このほんはいい。"
         },
         {
-          "english": "That is good",
-          "japanese_polite": "それはいいです",
-          "japanese_plain": "それはいい"
+          "english": "The teacher is good.",
+          "japanese_polite": "せんせいはいいです。",
+          "japanese_plain": "せんせいはいい。"
         },
         {
-          "english": "It is good",
-          "japanese_polite": "あれはいいです",
-          "japanese_plain": "あれはいい"
+          "english": "This bag is really good.",
+          "japanese_polite": "このかばんはとてもいいです。",
+          "japanese_plain": "このかばんはとてもいい。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not good",
-          "japanese_polite": "これはいくないです",
-          "japanese_plain": "これはいくない"
+          "english": "This restaurant is not good.",
+          "japanese_polite": "このレストランはよくないです。",
+          "japanese_plain": "このレストランはよくない。"
         },
         {
-          "english": "That is not good",
-          "japanese_polite": "それはいくないです",
-          "japanese_plain": "それはいくない"
+          "english": "That movie isn’t very good.",
+          "japanese_polite": "あのえいがはあまりよくないです。",
+          "japanese_plain": "あのえいがはあまりよくない。"
         },
         {
-          "english": "It is not good",
-          "japanese_polite": "あれはいくないです",
-          "japanese_plain": "あれはいくない"
+          "english": "This shirt doesn’t look good.",
+          "japanese_polite": "このシャツはよくないです。",
+          "japanese_plain": "このシャツはよくない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was good",
-          "japanese_polite": "これはいかったです",
-          "japanese_plain": "これはいかった"
+          "english": "The food was good.",
+          "japanese_polite": "たべものはよかったです。",
+          "japanese_plain": "たべものはよかった。"
         },
         {
-          "english": "That was good",
-          "japanese_polite": "それはいかったです",
-          "japanese_plain": "それはいかった"
+          "english": "Yesterday’s weather was good.",
+          "japanese_polite": "きのうのてんきはよかったです。",
+          "japanese_plain": "きのうのてんきはよかった。"
         },
         {
-          "english": "It was good",
-          "japanese_polite": "あれはいかったです",
-          "japanese_plain": "あれはいかった"
+          "english": "The trip was really good.",
+          "japanese_polite": "りょこうはとてもよかったです。",
+          "japanese_plain": "りょこうはとてもよかった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not good",
-          "japanese_polite": "これはいくなかったです",
-          "japanese_plain": "これはいくなかった"
+          "english": "The test was not good.",
+          "japanese_polite": "テストはよくなかったです。",
+          "japanese_plain": "テストはよくなかった。"
         },
         {
-          "english": "That was not good",
-          "japanese_polite": "それはいくなかったです",
-          "japanese_plain": "それはいくなかった"
+          "english": "The hotel wasn’t very good.",
+          "japanese_polite": "ホテルはあまりよくなかったです。",
+          "japanese_plain": "ホテルはあまりよくなかった。"
         },
         {
-          "english": "It was not good",
-          "japanese_polite": "あれはいくなかったです",
-          "japanese_plain": "あれはいくなかった"
+          "english": "The food wasn’t as good as I expected.",
+          "japanese_polite": "たべものはおもったほどよくなかったです。",
+          "japanese_plain": "たべものはおもったほどよくなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it well",
-          "japanese_polite": "かれはいくします",
-          "japanese_plain": "かれはいくする"
+          "english": "He listened carefully (well).",
+          "japanese_polite": "かれはよくききました。",
+          "japanese_plain": "かれはよくきいた。"
         },
         {
-          "english": "She does it well",
-          "japanese_polite": "かのじょはいくします",
-          "japanese_plain": "かのじょはいくする"
+          "english": "She studied well.",
+          "japanese_polite": "かのじょはよくべんきょうしました。",
+          "japanese_plain": "かのじょはよくべんきょうした。"
         },
         {
-          "english": "They do it well",
-          "japanese_polite": "かれらはいくします",
-          "japanese_plain": "かれらはいくする"
+          "english": "They answered well.",
+          "japanese_polite": "かれらはよくこたえました。",
+          "japanese_plain": "かれらはよくこたえた。"
         }
       ]
     }
@@ -1549,7 +1549,7 @@
   "高い": {
     "title": "高い Conjugation Table",
     "type": "i-adjective",
-    "meaning": "tall; expensive",
+    "meaning": "tall/expensive",
     "conjugations": [
       {
         "conjugation": "Base Form",
@@ -1578,89 +1578,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is tall",
-          "japanese_polite": "これは高いです",
-          "japanese_plain": "これは高い"
+          "english": "This mountain is tall.",
+          "japanese_polite": "このやまは高いです。",
+          "japanese_plain": "このやまは高い。"
         },
         {
-          "english": "That is tall",
-          "japanese_polite": "それは高いです",
-          "japanese_plain": "それは高い"
+          "english": "That camera is expensive.",
+          "japanese_polite": "あのカメラは高いです。",
+          "japanese_plain": "あのカメラは高い。"
         },
         {
-          "english": "It is tall",
-          "japanese_polite": "あれは高いです",
-          "japanese_plain": "あれは高い"
+          "english": "This building is really tall.",
+          "japanese_polite": "このビルはとても高いです。",
+          "japanese_plain": "このビルはとても高い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not tall",
-          "japanese_polite": "これは高くないです",
-          "japanese_plain": "これは高くない"
+          "english": "This apple is not expensive.",
+          "japanese_polite": "このりんごは高くないです。",
+          "japanese_plain": "このりんごは高くない。"
         },
         {
-          "english": "That is not tall",
-          "japanese_polite": "それは高くないです",
-          "japanese_plain": "それは高くない"
+          "english": "That building is not tall.",
+          "japanese_polite": "あのたてものは高くないです。",
+          "japanese_plain": "あのたてものは高くない。"
         },
         {
-          "english": "It is not tall",
-          "japanese_polite": "あれは高くないです",
-          "japanese_plain": "あれは高くない"
+          "english": "This hotel isn’t very expensive.",
+          "japanese_polite": "このホテルはあまり高くないです。",
+          "japanese_plain": "このホテルはあまり高くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was tall",
-          "japanese_polite": "これは高かったです",
-          "japanese_plain": "これは高かった"
+          "english": "The shoes were expensive.",
+          "japanese_polite": "そのくつは高かったです。",
+          "japanese_plain": "そのくつは高かった。"
         },
         {
-          "english": "That was tall",
-          "japanese_polite": "それは高かったです",
-          "japanese_plain": "それは高かった"
+          "english": "That mountain was tall.",
+          "japanese_polite": "あのやまは高かったです。",
+          "japanese_plain": "あのやまは高かった。"
         },
         {
-          "english": "It was tall",
-          "japanese_polite": "あれは高かったです",
-          "japanese_plain": "あれは高かった"
+          "english": "The building was very tall.",
+          "japanese_polite": "ビルはとても高かったです。",
+          "japanese_plain": "ビルはとても高かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not tall",
-          "japanese_polite": "これは高くなかったです",
-          "japanese_plain": "これは高くなかった"
+          "english": "The book was not expensive.",
+          "japanese_polite": "そのほんは高くなかったです。",
+          "japanese_plain": "そのほんは高くなかった。"
         },
         {
-          "english": "That was not tall",
-          "japanese_polite": "それは高くなかったです",
-          "japanese_plain": "それは高くなかった"
+          "english": "That hotel wasn’t very expensive.",
+          "japanese_polite": "あのホテルはあまり高くなかったです。",
+          "japanese_plain": "あのホテルはあまり高くなかった。"
         },
         {
-          "english": "It was not tall",
-          "japanese_polite": "あれは高くなかったです",
-          "japanese_plain": "あれは高くなかった"
+          "english": "The mountain wasn't as tall as I expected.",
+          "japanese_polite": "やまはおもったほど高くなかったです。",
+          "japanese_plain": "やまはおもったほど高くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it tallly",
-          "japanese_polite": "かれは高くします",
-          "japanese_plain": "かれは高くする"
+          "english": "He spoke loudly (in a high voice).",
+          "japanese_polite": "かれは高くはなしました。",
+          "japanese_plain": "かれは高くはなした。"
         },
         {
-          "english": "She does it tallly",
-          "japanese_polite": "かのじょは高くします",
-          "japanese_plain": "かのじょは高くする"
+          "english": "The bird flew high.",
+          "japanese_polite": "とりは高くとびました。",
+          "japanese_plain": "とりは高くとんだ。"
         },
         {
-          "english": "They do it tallly",
-          "japanese_polite": "かれらは高くします",
-          "japanese_plain": "かれらは高くする"
+          "english": "She jumped high.",
+          "japanese_polite": "かのじょは高くジャンプしました。",
+          "japanese_plain": "かのじょは高くジャンプした。"
         }
       ]
     }
@@ -1668,7 +1668,7 @@
   "寒い": {
     "title": "寒い Conjugation Table",
     "type": "i-adjective",
-    "meaning": "cold",
+    "meaning": "cold (weather)",
     "conjugations": [
       {
         "conjugation": "Base Form",
@@ -1697,89 +1697,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is cold",
-          "japanese_polite": "これは寒いです",
-          "japanese_plain": "これは寒い"
+          "english": "It is cold today.",
+          "japanese_polite": "きょうは寒いです。",
+          "japanese_plain": "きょうは寒い。"
         },
         {
-          "english": "That is cold",
-          "japanese_polite": "それは寒いです",
-          "japanese_plain": "それは寒い"
+          "english": "This morning is cold.",
+          "japanese_polite": "けさは寒いです。",
+          "japanese_plain": "けさは寒い。"
         },
         {
-          "english": "It is cold",
-          "japanese_polite": "あれは寒いです",
-          "japanese_plain": "あれは寒い"
+          "english": "The room is cold.",
+          "japanese_polite": "へやは寒いです。",
+          "japanese_plain": "へやは寒い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not cold",
-          "japanese_polite": "これは寒くないです",
-          "japanese_plain": "これは寒くない"
+          "english": "It is not cold today.",
+          "japanese_polite": "きょうは寒くないです。",
+          "japanese_plain": "きょうは寒くない。"
         },
         {
-          "english": "That is not cold",
-          "japanese_polite": "それは寒くないです",
-          "japanese_plain": "それは寒くない"
+          "english": "This room is not cold.",
+          "japanese_polite": "このへやは寒くないです。",
+          "japanese_plain": "このへやは寒くない。"
         },
         {
-          "english": "It is not cold",
-          "japanese_polite": "あれは寒くないです",
-          "japanese_plain": "あれは寒くない"
+          "english": "The morning is not very cold.",
+          "japanese_polite": "あさはあまり寒くないです。",
+          "japanese_plain": "あさはあまり寒くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was cold",
-          "japanese_polite": "これは寒かったです",
-          "japanese_plain": "これは寒かった"
+          "english": "It was cold yesterday.",
+          "japanese_polite": "きのうは寒かったです。",
+          "japanese_plain": "きのうは寒かった。"
         },
         {
-          "english": "That was cold",
-          "japanese_polite": "それは寒かったです",
-          "japanese_plain": "それは寒かった"
+          "english": "This morning was cold.",
+          "japanese_polite": "けさは寒かったです。",
+          "japanese_plain": "けさは寒かった。"
         },
         {
-          "english": "It was cold",
-          "japanese_polite": "あれは寒かったです",
-          "japanese_plain": "あれは寒かった"
+          "english": "The classroom was cold.",
+          "japanese_polite": "きょうしつは寒かったです。",
+          "japanese_plain": "きょうしつは寒かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not cold",
-          "japanese_polite": "これは寒くなかったです",
-          "japanese_plain": "これは寒くなかった"
+          "english": "It was not cold yesterday.",
+          "japanese_polite": "きのうは寒くなかったです。",
+          "japanese_plain": "きのうは寒くなかった。"
         },
         {
-          "english": "That was not cold",
-          "japanese_polite": "それは寒くなかったです",
-          "japanese_plain": "それは寒くなかった"
+          "english": "The room was not cold.",
+          "japanese_polite": "へやは寒くなかったです。",
+          "japanese_plain": "へやは寒くなかった。"
         },
         {
-          "english": "It was not cold",
-          "japanese_polite": "あれは寒くなかったです",
-          "japanese_plain": "あれは寒くなかった"
+          "english": "This morning wasn’t very cold.",
+          "japanese_polite": "けさはあまり寒くなかったです。",
+          "japanese_plain": "けさはあまり寒くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it coldly",
-          "japanese_polite": "かれは寒くします",
-          "japanese_plain": "かれは寒くする"
+          "english": "He said it coldly. (not natural for weather, but possible as figurative)",
+          "japanese_polite": "かれは寒くいいました。",
+          "japanese_plain": "かれは寒くいった。"
         },
         {
-          "english": "She does it coldly",
-          "japanese_polite": "かのじょは寒くします",
-          "japanese_plain": "かのじょは寒くする"
+          "english": "The wind blew coldly.",
+          "japanese_polite": "かぜが寒くふきました。",
+          "japanese_plain": "かぜが寒くふいた。"
         },
         {
-          "english": "They do it coldly",
-          "japanese_polite": "かれらは寒くします",
-          "japanese_plain": "かれらは寒くする"
+          "english": "She looked outside coldly. (as in cold weather)",
+          "japanese_polite": "かのじょは寒くそとを見ました。",
+          "japanese_plain": "かのじょは寒くそとを見た。"
         }
       ]
     }
@@ -1787,7 +1787,7 @@
   "好きな": {
     "title": "好きな Conjugation Table",
     "type": "na-adjective",
-    "meaning": "liked",
+    "meaning": "favorite",
     "conjugations": [
       {
         "conjugation": "Base Form",
@@ -1816,89 +1816,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is liked",
-          "japanese_polite": "これは好きです",
-          "japanese_plain": "これは好きだ"
+          "english": "I like apples.",
+          "japanese_polite": "りんごが好きです。",
+          "japanese_plain": "りんごが好きだ。"
         },
         {
-          "english": "That is liked",
-          "japanese_polite": "それは好きです",
-          "japanese_plain": "それは好きだ"
+          "english": "My sister likes cats.",
+          "japanese_polite": "いもうとはねこが好きです。",
+          "japanese_plain": "いもうとはねこが好きだ。"
         },
         {
-          "english": "It is liked",
-          "japanese_polite": "あれは好きです",
-          "japanese_plain": "あれは好きだ"
+          "english": "He likes music.",
+          "japanese_polite": "かれはおんがくが好きです。",
+          "japanese_plain": "かれはおんがくが好きだ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not liked",
-          "japanese_polite": "これは好きではありません",
-          "japanese_plain": "これは好きじゃない"
+          "english": "I don't like coffee.",
+          "japanese_polite": "コーヒーは好きではありません。",
+          "japanese_plain": "コーヒーは好きじゃない。"
         },
         {
-          "english": "That is not liked",
-          "japanese_polite": "それは好きではありません",
-          "japanese_plain": "それは好きじゃない"
+          "english": "My brother doesn't like dogs.",
+          "japanese_polite": "おとうとはいぬが好きではありません。",
+          "japanese_plain": "おとうとはいぬが好きじゃない。"
         },
         {
-          "english": "It is not liked",
-          "japanese_polite": "あれは好きではありません",
-          "japanese_plain": "あれは好きじゃない"
+          "english": "She doesn't like math.",
+          "japanese_polite": "かのじょはすうがくが好きではありません。",
+          "japanese_plain": "かのじょはすうがくが好きじゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was liked",
-          "japanese_polite": "これは好きでした",
-          "japanese_plain": "これは好きだった"
+          "english": "I liked that movie.",
+          "japanese_polite": "あのえいがが好きでした。",
+          "japanese_plain": "あのえいがが好きだった。"
         },
         {
-          "english": "That was liked",
-          "japanese_polite": "それは好きでした",
-          "japanese_plain": "それは好きだった"
+          "english": "He liked sushi before.",
+          "japanese_polite": "かれはまえはすしが好きでした。",
+          "japanese_plain": "かれはまえはすしが好きだった。"
         },
         {
-          "english": "It was liked",
-          "japanese_polite": "あれは好きでした",
-          "japanese_plain": "あれは好きだった"
+          "english": "My friend liked anime.",
+          "japanese_polite": "ともだちはアニメが好きでした。",
+          "japanese_plain": "ともだちはアニメが好きだった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not liked",
-          "japanese_polite": "これは好きではありませんでした",
-          "japanese_plain": "これは好きじゃなかった"
+          "english": "I didn’t like tomatoes.",
+          "japanese_polite": "トマトは好きではありませんでした。",
+          "japanese_plain": "トマトは好きじゃなかった。"
         },
         {
-          "english": "That was not liked",
-          "japanese_polite": "それは好きではありませんでした",
-          "japanese_plain": "それは好きじゃなかった"
+          "english": "She didn’t like English in high school.",
+          "japanese_polite": "かのじょはこうこうのときえいごが好きではありませんでした。",
+          "japanese_plain": "かのじょはこうこうのときえいごが好きじゃなかった。"
         },
         {
-          "english": "It was not liked",
-          "japanese_polite": "あれは好きではありませんでした",
-          "japanese_plain": "あれは好きじゃなかった"
+          "english": "We didn’t like that teacher.",
+          "japanese_polite": "わたしたちはあのせんせいが好きではありませんでした。",
+          "japanese_plain": "わたしたちはあのせんせいが好きじゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it likedly",
-          "japanese_polite": "かれは好きにします",
-          "japanese_plain": "かれは好きにする"
+          "english": "Please draw as you like.",
+          "japanese_polite": "好きにかいてください。",
+          "japanese_plain": "好きにかいて。"
         },
         {
-          "english": "She does it likedly",
-          "japanese_polite": "かのじょは好きにします",
-          "japanese_plain": "かのじょは好きにする"
+          "english": "You can choose as you like.",
+          "japanese_polite": "好きにえらんでいいです。",
+          "japanese_plain": "好きにえらんでいい。"
         },
         {
-          "english": "They do it likedly",
-          "japanese_polite": "かれらは好きにします",
-          "japanese_plain": "かれらは好きにする"
+          "english": "Live as you like.",
+          "japanese_polite": "好きにいきてください。",
+          "japanese_plain": "好きにいきて。"
         }
       ]
     }
@@ -1935,89 +1935,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is old",
-          "japanese_polite": "これは古いです",
-          "japanese_plain": "これは古い"
+          "english": "This house is old.",
+          "japanese_polite": "このいえは古いです。",
+          "japanese_plain": "このいえは古い。"
         },
         {
-          "english": "That is old",
-          "japanese_polite": "それは古いです",
-          "japanese_plain": "それは古い"
+          "english": "My phone is old.",
+          "japanese_polite": "わたしのけいたいは古いです。",
+          "japanese_plain": "わたしのけいたいは古い。"
         },
         {
-          "english": "It is old",
-          "japanese_polite": "あれは古いです",
-          "japanese_plain": "あれは古い"
+          "english": "That bicycle is old.",
+          "japanese_polite": "あのじてんしゃは古いです。",
+          "japanese_plain": "あのじてんしゃは古い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not old",
-          "japanese_polite": "これは古くないです",
-          "japanese_plain": "これは古くない"
+          "english": "This computer is not old.",
+          "japanese_polite": "このコンピューターは古くないです。",
+          "japanese_plain": "このコンピューターは古くない。"
         },
         {
-          "english": "That is not old",
-          "japanese_polite": "それは古くないです",
-          "japanese_plain": "それは古くない"
+          "english": "The shoes aren't old.",
+          "japanese_polite": "くつは古くないです。",
+          "japanese_plain": "くつは古くない。"
         },
         {
-          "english": "It is not old",
-          "japanese_polite": "あれは古くないです",
-          "japanese_plain": "あれは古くない"
+          "english": "That building isn’t old.",
+          "japanese_polite": "あのビルは古くないです。",
+          "japanese_plain": "あのビルは古くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was old",
-          "japanese_polite": "これは古かったです",
-          "japanese_plain": "これは古かった"
+          "english": "The car was old.",
+          "japanese_polite": "くるまは古かったです。",
+          "japanese_plain": "くるまは古かった。"
         },
         {
-          "english": "That was old",
-          "japanese_polite": "それは古かったです",
-          "japanese_plain": "それは古かった"
+          "english": "My bag was old.",
+          "japanese_polite": "わたしのかばんは古かったです。",
+          "japanese_plain": "わたしのかばんは古かった。"
         },
         {
-          "english": "It was old",
-          "japanese_polite": "あれは古かったです",
-          "japanese_plain": "あれは古かった"
+          "english": "That TV was old.",
+          "japanese_polite": "あのテレビは古かったです。",
+          "japanese_plain": "あのテレビは古かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not old",
-          "japanese_polite": "これは古くなかったです",
-          "japanese_plain": "これは古くなかった"
+          "english": "The phone was not old.",
+          "japanese_polite": "けいたいは古くなかったです。",
+          "japanese_plain": "けいたいは古くなかった。"
         },
         {
-          "english": "That was not old",
-          "japanese_polite": "それは古くなかったです",
-          "japanese_plain": "それは古くなかった"
+          "english": "The book wasn’t old.",
+          "japanese_polite": "ほんは古くなかったです。",
+          "japanese_plain": "ほんは古くなかった。"
         },
         {
-          "english": "It was not old",
-          "japanese_polite": "あれは古くなかったです",
-          "japanese_plain": "あれは古くなかった"
+          "english": "That house wasn’t old.",
+          "japanese_polite": "あのいえは古くなかったです。",
+          "japanese_plain": "あのいえは古くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it oldly",
-          "japanese_polite": "かれは古くします",
-          "japanese_plain": "かれは古くする"
+          "english": "She spoke in an old-fashioned way.",
+          "japanese_polite": "かのじょは古くはなしました。",
+          "japanese_plain": "かのじょは古くはなした。"
         },
         {
-          "english": "She does it oldly",
-          "japanese_polite": "かのじょは古くします",
-          "japanese_plain": "かのじょは古くする"
+          "english": "He wrote in an old style.",
+          "japanese_polite": "かれは古くかきました。",
+          "japanese_plain": "かれは古くかいた。"
         },
         {
-          "english": "They do it oldly",
-          "japanese_polite": "かれらは古くします",
-          "japanese_plain": "かれらは古くする"
+          "english": "They built it in an old way.",
+          "japanese_polite": "かれらは古くたてました。",
+          "japanese_plain": "かれらは古くたてた。"
         }
       ]
     }
@@ -2054,89 +2054,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is new",
-          "japanese_polite": "これは新しいです",
-          "japanese_plain": "これは新しい"
+          "english": "The car is new.",
+          "japanese_polite": "そのくるまは新しいです",
+          "japanese_plain": "そのくるまは新しい"
         },
         {
-          "english": "That is new",
-          "japanese_polite": "それは新しいです",
-          "japanese_plain": "それは新しい"
+          "english": "That car looks new.",
+          "japanese_polite": "あのくるまは新しいですね",
+          "japanese_plain": "あのくるまは新しいね"
         },
         {
-          "english": "It is new",
-          "japanese_polite": "あれは新しいです",
-          "japanese_plain": "あれは新しい"
+          "english": "I think the car is very new.",
+          "japanese_polite": "くるまはとても新しいですとおもいます",
+          "japanese_plain": "くるまはとても新しいとおもう"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not new",
-          "japanese_polite": "これは新しくないです",
-          "japanese_plain": "これは新しくない"
+          "english": "The car is not new.",
+          "japanese_polite": "そのくるまは新しいくないです",
+          "japanese_plain": "そのくるまは新しいくない"
         },
         {
-          "english": "That is not new",
-          "japanese_polite": "それは新しくないです",
-          "japanese_plain": "それは新しくない"
+          "english": "This car doesn't seem new.",
+          "japanese_polite": "このくるまは新しいくないですようです",
+          "japanese_plain": "このくるまは新しいくないようだ"
         },
         {
-          "english": "It is not new",
-          "japanese_polite": "あれは新しくないです",
-          "japanese_plain": "あれは新しくない"
+          "english": "My car isn't really new.",
+          "japanese_polite": "わたしのくるまはあまり新しいくないです",
+          "japanese_plain": "わたしのくるまはあまり新しいくない"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was new",
-          "japanese_polite": "これは新しかったです",
-          "japanese_plain": "これは新しかった"
+          "english": "The car was new.",
+          "japanese_polite": "そのくるまは新しいかったです",
+          "japanese_plain": "そのくるまは新しいかった"
         },
         {
-          "english": "That was new",
-          "japanese_polite": "それは新しかったです",
-          "japanese_plain": "それは新しかった"
+          "english": "Yesterday's car was very new.",
+          "japanese_polite": "きのうのくるまはとても新しいかったです",
+          "japanese_plain": "きのうのくるまはとても新しいかった"
         },
         {
-          "english": "It was new",
-          "japanese_polite": "あれは新しかったです",
-          "japanese_plain": "あれは新しかった"
+          "english": "My old car was new.",
+          "japanese_polite": "むかしのくるまは新しいかったです",
+          "japanese_plain": "むかしのくるまは新しいかった"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not new",
-          "japanese_polite": "これは新しくなかったです",
-          "japanese_plain": "これは新しくなかった"
+          "english": "The car was not new.",
+          "japanese_polite": "そのくるまは新しいくなかったです",
+          "japanese_plain": "そのくるまは新しいくなかった"
         },
         {
-          "english": "That was not new",
-          "japanese_polite": "それは新しくなかったです",
-          "japanese_plain": "それは新しくなかった"
+          "english": "That car wasn't very new.",
+          "japanese_polite": "あのくるまはあまり新しいくなかったです",
+          "japanese_plain": "あのくるまはあまり新しいくなかった"
         },
         {
-          "english": "It was not new",
-          "japanese_polite": "あれは新しくなかったです",
-          "japanese_plain": "あれは新しくなかった"
+          "english": "The car wasn't as new as I expected.",
+          "japanese_polite": "くるまはおもったほど新しいくなかったです",
+          "japanese_plain": "くるまはおもったほど新しいくなかった"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it newly",
-          "japanese_polite": "かれは新しくします",
-          "japanese_plain": "かれは新しくする"
+          "english": "He acted newly.",
+          "japanese_polite": "かれは新しいくこうどうしました",
+          "japanese_plain": "かれは新しいくこうどうした"
         },
         {
-          "english": "She does it newly",
-          "japanese_polite": "かのじょは新しくします",
-          "japanese_plain": "かのじょは新しくする"
+          "english": "She walked newly.",
+          "japanese_polite": "かのじょは新しいくあるきました",
+          "japanese_plain": "かのじょは新しいくあるいた"
         },
         {
-          "english": "They do it newly",
-          "japanese_polite": "かれらは新しくします",
-          "japanese_plain": "かれらは新しくする"
+          "english": "They answered the question newly.",
+          "japanese_polite": "かれらは新しいくこたえました",
+          "japanese_plain": "かれらは新しいくこたえた"
         }
       ]
     }
@@ -2173,89 +2173,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is important",
-          "japanese_polite": "これは大切です",
-          "japanese_plain": "これは大切だ"
+          "english": "My dog is important to me.",
+          "japanese_polite": "わたしにとって、いぬは大切です。",
+          "japanese_plain": "わたしにとって、いぬは大切だ。"
         },
         {
-          "english": "That is important",
-          "japanese_polite": "それは大切です",
-          "japanese_plain": "それは大切だ"
+          "english": "This letter is important.",
+          "japanese_polite": "このてがみは大切です。",
+          "japanese_plain": "このてがみは大切だ。"
         },
         {
-          "english": "It is important",
-          "japanese_polite": "あれは大切です",
-          "japanese_plain": "あれは大切だ"
+          "english": "Family is important.",
+          "japanese_polite": "かぞくは大切です。",
+          "japanese_plain": "かぞくは大切だ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not important",
-          "japanese_polite": "これは大切ではありません",
-          "japanese_plain": "これは大切じゃない"
+          "english": "That document is not important.",
+          "japanese_polite": "そのしょるいは大切ではありません。",
+          "japanese_plain": "そのしょるいは大切じゃない。"
         },
         {
-          "english": "That is not important",
-          "japanese_polite": "それは大切ではありません",
-          "japanese_plain": "それは大切じゃない"
+          "english": "This bag is not very important.",
+          "japanese_polite": "このかばんはあまり大切ではありません。",
+          "japanese_plain": "このかばんはあまり大切じゃない。"
         },
         {
-          "english": "It is not important",
-          "japanese_polite": "あれは大切ではありません",
-          "japanese_plain": "あれは大切じゃない"
+          "english": "That rule is not important to me.",
+          "japanese_polite": "そのきそくはわたしにとって大切ではありません。",
+          "japanese_plain": "そのきそくはわたしにとって大切じゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was important",
-          "japanese_polite": "これは大切でした",
-          "japanese_plain": "これは大切だった"
+          "english": "That phone was important to me.",
+          "japanese_polite": "そのけいたいはわたしにとって大切でした。",
+          "japanese_plain": "そのけいたいはわたしにとって大切だった。"
         },
         {
-          "english": "That was important",
-          "japanese_polite": "それは大切でした",
-          "japanese_plain": "それは大切だった"
+          "english": "That gift was important.",
+          "japanese_polite": "そのプレゼントは大切でした。",
+          "japanese_plain": "そのプレゼントは大切だった。"
         },
         {
-          "english": "It was important",
-          "japanese_polite": "あれは大切でした",
-          "japanese_plain": "あれは大切だった"
+          "english": "My old diary was important.",
+          "japanese_polite": "むかしのにっきは大切でした。",
+          "japanese_plain": "むかしのにっきは大切だった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not important",
-          "japanese_polite": "これは大切ではありませんでした",
-          "japanese_plain": "これは大切じゃなかった"
+          "english": "That paper was not important.",
+          "japanese_polite": "そのかみは大切ではありませんでした。",
+          "japanese_plain": "そのかみは大切じゃなかった。"
         },
         {
-          "english": "That was not important",
-          "japanese_polite": "それは大切ではありませんでした",
-          "japanese_plain": "それは大切じゃなかった"
+          "english": "The meeting wasn't important.",
+          "japanese_polite": "そのかいぎは大切ではありませんでした。",
+          "japanese_plain": "そのかいぎは大切じゃなかった。"
         },
         {
-          "english": "It was not important",
-          "japanese_polite": "あれは大切ではありませんでした",
-          "japanese_plain": "あれは大切じゃなかった"
+          "english": "That thing wasn’t important to me.",
+          "japanese_polite": "それはわたしにとって大切ではありませんでした。",
+          "japanese_plain": "それはわたしにとって大切じゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it importantly",
-          "japanese_polite": "かれは大切にします",
-          "japanese_plain": "かれは大切にする"
+          "english": "She treated the book with care.",
+          "japanese_polite": "かのじょはほんを大切にしました。",
+          "japanese_plain": "かのじょはほんを大切にした。"
         },
         {
-          "english": "She does it importantly",
-          "japanese_polite": "かのじょは大切にします",
-          "japanese_plain": "かのじょは大切にする"
+          "english": "He kept the photo carefully.",
+          "japanese_polite": "かれはしゃしんを大切にもちました。",
+          "japanese_plain": "かれはしゃしんを大切にもった。"
         },
         {
-          "english": "They do it importantly",
-          "japanese_polite": "かれらは大切にします",
-          "japanese_plain": "かれらは大切にする"
+          "english": "We used the gift carefully.",
+          "japanese_polite": "わたしたちはプレゼントを大切につかいました。",
+          "japanese_plain": "わたしたちはプレゼントを大切につかった。"
         }
       ]
     }
@@ -2292,89 +2292,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is easy",
-          "japanese_polite": "これは簡単です",
-          "japanese_plain": "これは簡単だ"
+          "english": "This question is easy.",
+          "japanese_polite": "このしつもんは簡単です。",
+          "japanese_plain": "このしつもんは簡単だ。"
         },
         {
-          "english": "That is easy",
-          "japanese_polite": "それは簡単です",
-          "japanese_plain": "それは簡単だ"
+          "english": "The recipe is easy.",
+          "japanese_polite": "レシピは簡単です。",
+          "japanese_plain": "レシピは簡単だ。"
         },
         {
-          "english": "It is easy",
-          "japanese_polite": "あれは簡単です",
-          "japanese_plain": "あれは簡単だ"
+          "english": "The test today is easy.",
+          "japanese_polite": "きょうのテストは簡単です。",
+          "japanese_plain": "きょうのテストは簡単だ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not easy",
-          "japanese_polite": "これは簡単ではありません",
-          "japanese_plain": "これは簡単じゃない"
+          "english": "This problem is not easy.",
+          "japanese_polite": "このもんだいは簡単ではありません。",
+          "japanese_plain": "このもんだいは簡単じゃない。"
         },
         {
-          "english": "That is not easy",
-          "japanese_polite": "それは簡単ではありません",
-          "japanese_plain": "それは簡単じゃない"
+          "english": "The homework isn’t easy.",
+          "japanese_polite": "しゅくだいは簡単ではありません。",
+          "japanese_plain": "しゅくだいは簡単じゃない。"
         },
         {
-          "english": "It is not easy",
-          "japanese_polite": "あれは簡単ではありません",
-          "japanese_plain": "あれは簡単じゃない"
+          "english": "That work is not easy at all.",
+          "japanese_polite": "あのしごとはぜんぜん簡単ではありません。",
+          "japanese_plain": "あのしごとはぜんぜん簡単じゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was easy",
-          "japanese_polite": "これは簡単でした",
-          "japanese_plain": "これは簡単だった"
+          "english": "Yesterday's question was easy.",
+          "japanese_polite": "きのうのしつもんは簡単でした。",
+          "japanese_plain": "きのうのしつもんは簡単だった。"
         },
         {
-          "english": "That was easy",
-          "japanese_polite": "それは簡単でした",
-          "japanese_plain": "それは簡単だった"
+          "english": "The job interview was easy.",
+          "japanese_polite": "めんせつは簡単でした。",
+          "japanese_plain": "めんせつは簡単だった。"
         },
         {
-          "english": "It was easy",
-          "japanese_polite": "あれは簡単でした",
-          "japanese_plain": "あれは簡単だった"
+          "english": "That exam was easy.",
+          "japanese_polite": "そのしけんは簡単でした。",
+          "japanese_plain": "そのしけんは簡単だった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not easy",
-          "japanese_polite": "これは簡単ではありませんでした",
-          "japanese_plain": "これは簡単じゃなかった"
+          "english": "The question was not easy.",
+          "japanese_polite": "そのしつもんは簡単ではありませんでした。",
+          "japanese_plain": "そのしつもんは簡単じゃなかった。"
         },
         {
-          "english": "That was not easy",
-          "japanese_polite": "それは簡単ではありませんでした",
-          "japanese_plain": "それは簡単じゃなかった"
+          "english": "Yesterday's homework was not easy.",
+          "japanese_polite": "きのうのしゅくだいは簡単ではありませんでした。",
+          "japanese_plain": "きのうのしゅくだいは簡単じゃなかった。"
         },
         {
-          "english": "It was not easy",
-          "japanese_polite": "あれは簡単ではありませんでした",
-          "japanese_plain": "あれは簡単じゃなかった"
+          "english": "The test wasn't as easy as I thought.",
+          "japanese_polite": "テストはおもったほど簡単ではありませんでした。",
+          "japanese_plain": "テストはおもったほど簡単じゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it easily",
-          "japanese_polite": "かれは簡単にします",
-          "japanese_plain": "かれは簡単にする"
+          "english": "He explained it simply.",
+          "japanese_polite": "かれは簡単にせつめいしました。",
+          "japanese_plain": "かれは簡単にせつめいした。"
         },
         {
-          "english": "She does it easily",
-          "japanese_polite": "かのじょは簡単にします",
-          "japanese_plain": "かのじょは簡単にする"
+          "english": "I finished the task easily.",
+          "japanese_polite": "わたしは簡単にしごとをおわらせました。",
+          "japanese_plain": "わたしは簡単にしごとをおわらせた。"
         },
         {
-          "english": "They do it easily",
-          "japanese_polite": "かれらは簡単にします",
-          "japanese_plain": "かれらは簡単にする"
+          "english": "She solved the problem easily.",
+          "japanese_polite": "かのじょは簡単にもんだいをときました。",
+          "japanese_plain": "かのじょは簡単にもんだいをといた。"
         }
       ]
     }
@@ -2411,89 +2411,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is cute",
-          "japanese_polite": "これはかわいいです",
-          "japanese_plain": "これはかわいい"
+          "english": "The puppy is cute.",
+          "japanese_polite": "そのこいぬはかわいいです。",
+          "japanese_plain": "そのこいぬはかわいい。"
         },
         {
-          "english": "That is cute",
-          "japanese_polite": "それはかわいいです",
-          "japanese_plain": "それはかわいい"
+          "english": "This dress is cute.",
+          "japanese_polite": "このワンピースはかわいいです。",
+          "japanese_plain": "このワンピースはかわいい。"
         },
         {
-          "english": "It is cute",
-          "japanese_polite": "あれはかわいいです",
-          "japanese_plain": "あれはかわいい"
+          "english": "Your smile is cute.",
+          "japanese_polite": "あなたのえがおはかわいいです。",
+          "japanese_plain": "あなたのえがおはかわいい。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not cute",
-          "japanese_polite": "これはかわいくないです",
-          "japanese_plain": "これはかわいくない"
+          "english": "This character is not cute.",
+          "japanese_polite": "このキャラクターはかわいくないです。",
+          "japanese_plain": "このキャラクターはかわいくない。"
         },
         {
-          "english": "That is not cute",
-          "japanese_polite": "それはかわいくないです",
-          "japanese_plain": "それはかわいくない"
+          "english": "That toy isn’t cute.",
+          "japanese_polite": "あのおもちゃはかわいくないです。",
+          "japanese_plain": "あのおもちゃはかわいくない。"
         },
         {
-          "english": "It is not cute",
-          "japanese_polite": "あれはかわいくないです",
-          "japanese_plain": "あれはかわいくない"
+          "english": "My handwriting isn’t cute.",
+          "japanese_polite": "わたしのじはかわいくないです。",
+          "japanese_plain": "わたしのじはかわいくない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was cute",
-          "japanese_polite": "これはかわいかったです",
-          "japanese_plain": "これはかわいかった"
+          "english": "The kitten was cute.",
+          "japanese_polite": "そのこねこはかわいかったです。",
+          "japanese_plain": "そのこねこはかわいかった。"
         },
         {
-          "english": "That was cute",
-          "japanese_polite": "それはかわいかったです",
-          "japanese_plain": "それはかわいかった"
+          "english": "That picture was really cute.",
+          "japanese_polite": "あのしゃしんはとてもかわいかったです。",
+          "japanese_plain": "あのしゃしんはとてもかわいかった。"
         },
         {
-          "english": "It was cute",
-          "japanese_polite": "あれはかわいかったです",
-          "japanese_plain": "あれはかわいかった"
+          "english": "Her outfit was cute.",
+          "japanese_polite": "かのじょのふくはかわいかったです。",
+          "japanese_plain": "かのじょのふくはかわいかった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not cute",
-          "japanese_polite": "これはかわいくなかったです",
-          "japanese_plain": "これはかわいくなかった"
+          "english": "The doll wasn’t cute.",
+          "japanese_polite": "そのにんぎょうはかわいくなかったです。",
+          "japanese_plain": "そのにんぎょうはかわいくなかった。"
         },
         {
-          "english": "That was not cute",
-          "japanese_polite": "それはかわいくなかったです",
-          "japanese_plain": "それはかわいくなかった"
+          "english": "That drawing wasn't cute.",
+          "japanese_polite": "あのえはかわいくなかったです。",
+          "japanese_plain": "あのえはかわいくなかった。"
         },
         {
-          "english": "It was not cute",
-          "japanese_polite": "あれはかわいくなかったです",
-          "japanese_plain": "あれはかわいくなかった"
+          "english": "The bag wasn't as cute as I expected.",
+          "japanese_polite": "かばんはおもったほどかわいくなかったです。",
+          "japanese_plain": "かばんはおもったほどかわいくなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it cutly",
-          "japanese_polite": "かれはかわいくします",
-          "japanese_plain": "かれはかわいくする"
+          "english": "She decorated the room cutely.",
+          "japanese_polite": "かのじょはへやをかわいくかざりました。",
+          "japanese_plain": "かのじょはへやをかわいくかざった。"
         },
         {
-          "english": "She does it cutly",
-          "japanese_polite": "かのじょはかわいくします",
-          "japanese_plain": "かのじょはかわいくする"
+          "english": "He tied the ribbon cutely.",
+          "japanese_polite": "かれはリボンをかわいくむすびました。",
+          "japanese_plain": "かれはリボンをかわいくむすんだ。"
         },
         {
-          "english": "They do it cutly",
-          "japanese_polite": "かれらはかわいくします",
-          "japanese_plain": "かれらはかわいくする"
+          "english": "They wrapped the gift cutely.",
+          "japanese_polite": "かれらはプレゼントをかわいくつつみました。",
+          "japanese_plain": "かれらはプレゼントをかわいくつつんだ。"
         }
       ]
     }
@@ -2530,89 +2530,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is cheap",
-          "japanese_polite": "これは安いです",
-          "japanese_plain": "これは安い"
+          "english": "This lunch is cheap.",
+          "japanese_polite": "このひるごはんは安いです。",
+          "japanese_plain": "このひるごはんは安い。"
         },
         {
-          "english": "That is cheap",
-          "japanese_polite": "それは安いです",
-          "japanese_plain": "それは安い"
+          "english": "The T-shirt is cheap.",
+          "japanese_polite": "そのTシャツは安いです。",
+          "japanese_plain": "そのTシャツは安い。"
         },
         {
-          "english": "It is cheap",
-          "japanese_polite": "あれは安いです",
-          "japanese_plain": "あれは安い"
+          "english": "This bag is really cheap.",
+          "japanese_polite": "このかばんはとても安いです。",
+          "japanese_plain": "このかばんはとても安い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not cheap",
-          "japanese_polite": "これは安くないです",
-          "japanese_plain": "これは安くない"
+          "english": "This book is not cheap.",
+          "japanese_polite": "このほんは安くないです。",
+          "japanese_plain": "このほんは安くない。"
         },
         {
-          "english": "That is not cheap",
-          "japanese_polite": "それは安くないです",
-          "japanese_plain": "それは安くない"
+          "english": "The shoes are not cheap.",
+          "japanese_polite": "そのくつは安くないです。",
+          "japanese_plain": "そのくつは安くない。"
         },
         {
-          "english": "It is not cheap",
-          "japanese_polite": "あれは安くないです",
-          "japanese_plain": "あれは安くない"
+          "english": "My umbrella is not cheap.",
+          "japanese_polite": "わたしのかさは安くないです。",
+          "japanese_plain": "わたしのかさは安くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was cheap",
-          "japanese_polite": "これは安かったです",
-          "japanese_plain": "これは安かった"
+          "english": "The sandwich was cheap.",
+          "japanese_polite": "サンドイッチは安かったです。",
+          "japanese_plain": "サンドイッチは安かった。"
         },
         {
-          "english": "That was cheap",
-          "japanese_polite": "それは安かったです",
-          "japanese_plain": "それは安かった"
+          "english": "The train ticket was cheap.",
+          "japanese_polite": "でんしゃのきっぷは安かったです。",
+          "japanese_plain": "でんしゃのきっぷは安かった。"
         },
         {
-          "english": "It was cheap",
-          "japanese_polite": "あれは安かったです",
-          "japanese_plain": "あれは安かった"
+          "english": "The hotel was very cheap.",
+          "japanese_polite": "ホテルはとても安かったです。",
+          "japanese_plain": "ホテルはとても安かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not cheap",
-          "japanese_polite": "これは安くなかったです",
-          "japanese_plain": "これは安くなかった"
+          "english": "The dinner wasn’t cheap.",
+          "japanese_polite": "ばんごはんは安くなかったです。",
+          "japanese_plain": "ばんごはんは安くなかった。"
         },
         {
-          "english": "That was not cheap",
-          "japanese_polite": "それは安くなかったです",
-          "japanese_plain": "それは安くなかった"
+          "english": "This umbrella wasn’t cheap.",
+          "japanese_polite": "このかさは安くなかったです。",
+          "japanese_plain": "このかさは安くなかった。"
         },
         {
-          "english": "It was not cheap",
-          "japanese_polite": "あれは安くなかったです",
-          "japanese_plain": "あれは安くなかった"
+          "english": "The bag wasn’t as cheap as I expected.",
+          "japanese_polite": "かばんはおもったほど安くなかったです。",
+          "japanese_plain": "かばんはおもったほど安くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it cheaply",
-          "japanese_polite": "かれは安くします",
-          "japanese_plain": "かれは安くする"
+          "english": "I bought it cheaply at the market.",
+          "japanese_polite": "いちばで安くかいました。",
+          "japanese_plain": "いちばで安くかった。"
         },
         {
-          "english": "She does it cheaply",
-          "japanese_polite": "かのじょは安くします",
-          "japanese_plain": "かのじょは安くする"
+          "english": "She found it cheaply online.",
+          "japanese_polite": "かのじょはネットで安くみつけました。",
+          "japanese_plain": "かのじょはネットで安くみつけた。"
         },
         {
-          "english": "They do it cheaply",
-          "japanese_polite": "かれらは安くします",
-          "japanese_plain": "かれらは安くする"
+          "english": "We stayed cheaply at a hostel.",
+          "japanese_polite": "ホステルに安くとまりました。",
+          "japanese_plain": "ホステルに安くとまった。"
         }
       ]
     }
@@ -2620,7 +2620,7 @@
   "暑い": {
     "title": "暑い Conjugation Table",
     "type": "i-adjective",
-    "meaning": "hot",
+    "meaning": "hot (weather)",
     "conjugations": [
       {
         "conjugation": "Base Form",
@@ -2649,89 +2649,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is hot",
-          "japanese_polite": "これは暑いです",
-          "japanese_plain": "これは暑い"
+          "english": "Today is hot.",
+          "japanese_polite": "きょうは暑いです。",
+          "japanese_plain": "きょうは暑い。"
         },
         {
-          "english": "That is hot",
-          "japanese_polite": "それは暑いです",
-          "japanese_plain": "それは暑い"
+          "english": "It’s hot outside.",
+          "japanese_polite": "そとは暑いです。",
+          "japanese_plain": "そとは暑い。"
         },
         {
-          "english": "It is hot",
-          "japanese_polite": "あれは暑いです",
-          "japanese_plain": "あれは暑い"
+          "english": "Summer in Japan is hot.",
+          "japanese_polite": "にほんのなつは暑いです。",
+          "japanese_plain": "にほんのなつは暑い。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not hot",
-          "japanese_polite": "これは暑くないです",
-          "japanese_plain": "これは暑くない"
+          "english": "Today is not hot.",
+          "japanese_polite": "きょうは暑くないです。",
+          "japanese_plain": "きょうは暑くない。"
         },
         {
-          "english": "That is not hot",
-          "japanese_polite": "それは暑くないです",
-          "japanese_plain": "それは暑くない"
+          "english": "The classroom is not hot.",
+          "japanese_polite": "きょうしつは暑くないです。",
+          "japanese_plain": "きょうしつは暑くない。"
         },
         {
-          "english": "It is not hot",
-          "japanese_polite": "あれは暑くないです",
-          "japanese_plain": "あれは暑くない"
+          "english": "It’s not hot this morning.",
+          "japanese_polite": "けさは暑くないです。",
+          "japanese_plain": "けさは暑くない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was hot",
-          "japanese_polite": "これは暑かったです",
-          "japanese_plain": "これは暑かった"
+          "english": "It was hot yesterday.",
+          "japanese_polite": "きのうは暑かったです。",
+          "japanese_plain": "きのうは暑かった。"
         },
         {
-          "english": "That was hot",
-          "japanese_polite": "それは暑かったです",
-          "japanese_plain": "それは暑かった"
+          "english": "The room was hot.",
+          "japanese_polite": "へやは暑かったです。",
+          "japanese_plain": "へやは暑かった。"
         },
         {
-          "english": "It was hot",
-          "japanese_polite": "あれは暑かったです",
-          "japanese_plain": "あれは暑かった"
+          "english": "Last week was really hot.",
+          "japanese_polite": "せんしゅうはとても暑かったです。",
+          "japanese_plain": "せんしゅうはとても暑かった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not hot",
-          "japanese_polite": "これは暑くなかったです",
-          "japanese_plain": "これは暑くなかった"
+          "english": "It was not hot yesterday.",
+          "japanese_polite": "きのうは暑くなかったです。",
+          "japanese_plain": "きのうは暑くなかった。"
         },
         {
-          "english": "That was not hot",
-          "japanese_polite": "それは暑くなかったです",
-          "japanese_plain": "それは暑くなかった"
+          "english": "The room wasn't hot at all.",
+          "japanese_polite": "へやはぜんぜん暑くなかったです。",
+          "japanese_plain": "へやはぜんぜん暑くなかった。"
         },
         {
-          "english": "It was not hot",
-          "japanese_polite": "あれは暑くなかったです",
-          "japanese_plain": "あれは暑くなかった"
+          "english": "Last summer wasn’t hot.",
+          "japanese_polite": "きょねんのなつは暑くなかったです。",
+          "japanese_plain": "きょねんのなつは暑くなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it hotly",
-          "japanese_polite": "かれは暑くします",
-          "japanese_plain": "かれは暑くする"
+          "english": "I came home because it was hot.",
+          "japanese_polite": "暑くて、いえにかえりました。",
+          "japanese_plain": "暑くて、いえにかえった。"
         },
         {
-          "english": "She does it hotly",
-          "japanese_polite": "かのじょは暑くします",
-          "japanese_plain": "かのじょは暑くする"
+          "english": "I couldn’t sleep because it was hot.",
+          "japanese_polite": "暑くて、ねられませんでした。",
+          "japanese_plain": "暑くて、ねられなかった。"
         },
         {
-          "english": "They do it hotly",
-          "japanese_polite": "かれらは暑くします",
-          "japanese_plain": "かれらは暑くする"
+          "english": "We stayed inside because it was hot.",
+          "japanese_polite": "暑くて、なかにいました。",
+          "japanese_plain": "暑くて、なかにいた。"
         }
       ]
     }
@@ -2739,7 +2739,7 @@
   "きれいな": {
     "title": "きれいな Conjugation Table",
     "type": "na-adjective",
-    "meaning": "beautiful",
+    "meaning": "clean; beautiful",
     "conjugations": [
       {
         "conjugation": "Base Form",
@@ -2768,89 +2768,89 @@
       }
     ],
     "examples": {
-      "Positive": [
+      "Non-past Affirmative": [
         {
-          "english": "This is beautiful",
-          "japanese_polite": "これはきれいです",
-          "japanese_plain": "これはきれいだ"
+          "english": "The classroom is clean.",
+          "japanese_polite": "きょうしつはきれいです。",
+          "japanese_plain": "きょうしつはきれいだ。"
         },
         {
-          "english": "That is beautiful",
-          "japanese_polite": "それはきれいです",
-          "japanese_plain": "それはきれいだ"
+          "english": "Your handwriting is beautiful.",
+          "japanese_polite": "あなたのじはきれいです。",
+          "japanese_plain": "あなたのじはきれいだ。"
         },
         {
-          "english": "It is beautiful",
-          "japanese_polite": "あれはきれいです",
-          "japanese_plain": "あれはきれいだ"
+          "english": "The flowers in the garden are beautiful.",
+          "japanese_polite": "にわのはなはきれいです。",
+          "japanese_plain": "にわのはなはきれいだ。"
         }
       ],
-      "Negative": [
+      "Non-past Negative": [
         {
-          "english": "This is not beautiful",
-          "japanese_polite": "これはきれいではありません",
-          "japanese_plain": "これはきれいじゃない"
+          "english": "The window is not clean.",
+          "japanese_polite": "まどはきれいではありません。",
+          "japanese_plain": "まどはきれいじゃない。"
         },
         {
-          "english": "That is not beautiful",
-          "japanese_polite": "それはきれいではありません",
-          "japanese_plain": "それはきれいじゃない"
+          "english": "My room isn’t beautiful now.",
+          "japanese_polite": "いま、へやはきれいではありません。",
+          "japanese_plain": "いま、へやはきれいじゃない。"
         },
         {
-          "english": "It is not beautiful",
-          "japanese_polite": "あれはきれいではありません",
-          "japanese_plain": "あれはきれいじゃない"
+          "english": "That river is not clean.",
+          "japanese_polite": "あのかわはきれいではありません。",
+          "japanese_plain": "あのかわはきれいじゃない。"
         }
       ],
-      "Past": [
+      "Past Affirmative": [
         {
-          "english": "This was beautiful",
-          "japanese_polite": "これはきれいでした",
-          "japanese_plain": "これはきれいだった"
+          "english": "The hotel room was clean.",
+          "japanese_polite": "ホテルのへやはきれいでした。",
+          "japanese_plain": "ホテルのへやはきれいだった。"
         },
         {
-          "english": "That was beautiful",
-          "japanese_polite": "それはきれいでした",
-          "japanese_plain": "それはきれいだった"
+          "english": "Her dress was beautiful.",
+          "japanese_polite": "かのじょのドレスはきれいでした。",
+          "japanese_plain": "かのじょのドレスはきれいだった。"
         },
         {
-          "english": "It was beautiful",
-          "japanese_polite": "あれはきれいでした",
-          "japanese_plain": "あれはきれいだった"
+          "english": "The sea was very clean.",
+          "japanese_polite": "うみはとてもきれいでした。",
+          "japanese_plain": "うみはとてもきれいだった。"
         }
       ],
       "Past Negative": [
         {
-          "english": "This was not beautiful",
-          "japanese_polite": "これはきれいではありませんでした",
-          "japanese_plain": "これはきれいじゃなかった"
+          "english": "The table was not clean.",
+          "japanese_polite": "テーブルはきれいではありませんでした。",
+          "japanese_plain": "テーブルはきれいじゃなかった。"
         },
         {
-          "english": "That was not beautiful",
-          "japanese_polite": "それはきれいではありませんでした",
-          "japanese_plain": "それはきれいじゃなかった"
+          "english": "Yesterday, the room wasn’t clean.",
+          "japanese_polite": "きのう、へやはきれいではありませんでした。",
+          "japanese_plain": "きのう、へやはきれいじゃなかった。"
         },
         {
-          "english": "It was not beautiful",
-          "japanese_polite": "あれはきれいではありませんでした",
-          "japanese_plain": "あれはきれいじゃなかった"
+          "english": "The sky wasn’t beautiful today.",
+          "japanese_polite": "きょうのそらはきれいではありませんでした。",
+          "japanese_plain": "きょうのそらはきれいじゃなかった。"
         }
       ],
       "Adverbial": [
         {
-          "english": "He does it beautifully",
-          "japanese_polite": "かれはきれいにします",
-          "japanese_plain": "かれはきれいにする"
+          "english": "She cleaned the room beautifully.",
+          "japanese_polite": "かのじょはへやをきれいにそうじしました。",
+          "japanese_plain": "かのじょはへやをきれいにそうじした。"
         },
         {
-          "english": "She does it beautifully",
-          "japanese_polite": "かのじょはきれいにします",
-          "japanese_plain": "かのじょはきれいにする"
+          "english": "He wrote his name neatly.",
+          "japanese_polite": "かれはじぶんのなまえをきれいにかきました。",
+          "japanese_plain": "かれはじぶんのなまえをきれいにかいた。"
         },
         {
-          "english": "They do it beautifully",
-          "japanese_polite": "かれらはきれいにします",
-          "japanese_plain": "かれらはきれいにする"
+          "english": "They arranged the books nicely.",
+          "japanese_polite": "かれらはほんをきれいにならべました。",
+          "japanese_plain": "かれらはほんをきれいにならべた。"
         }
       ]
     }
