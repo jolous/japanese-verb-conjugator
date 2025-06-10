@@ -105,7 +105,16 @@ function AdjectiveConjugator() {
     setResult(null);
 
     if (conjugationLibrary && conjugationLibrary[inputAdjective]) {
-      setResult(conjugationLibrary[inputAdjective]);
+      const data = conjugationLibrary[inputAdjective];
+      let processed = data;
+      if (data.examples && !Array.isArray(data.examples)) {
+        const randomExamples = Object.entries(data.examples).map(([tense, arr]) => {
+          const ex = arr[Math.floor(Math.random() * arr.length)];
+          return { tense, ...ex };
+        });
+        processed = { ...data, examples: randomExamples };
+      }
+      setResult(processed);
       setLoading(false);
       return;
     }
