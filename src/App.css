@@ -458,3 +458,18 @@
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
 }
 
+.anime-link {
+  text-align: center;
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+.anime-link a {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+.anime-link a:hover {
+  color: var(--primary-color-hover);
+}
+
