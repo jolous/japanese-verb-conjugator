@@ -193,10 +193,14 @@ function AdjectiveConjugator() {
                   <tr key={index}>
                     <td>{row.conjugation}</td>
                     <td>
-                      <BlurredText>{addFurigana(row.polite)}</BlurredText>
+                      <BlurredText searchTerm={row.polite}>
+                        {addFurigana(row.polite)}
+                      </BlurredText>
                     </td>
                     <td>
-                      <BlurredText>{addFurigana(row.plain)}</BlurredText>
+                      <BlurredText searchTerm={row.plain}>
+                        {addFurigana(row.plain)}
+                      </BlurredText>
                     </td>
                   </tr>
                 ))}
@@ -220,10 +224,14 @@ function AdjectiveConjugator() {
                         <td>{ex.tense}</td>
                         <td>{ex.english}</td>
                         <td>
-                          <BlurredText>{addFurigana(ex.japanese_polite)}</BlurredText>
+                          <BlurredText searchTerm={ex.japanese_polite}>
+                            {addFurigana(ex.japanese_polite)}
+                          </BlurredText>
                         </td>
                         <td>
-                          <BlurredText>{addFurigana(ex.japanese_plain)}</BlurredText>
+                          <BlurredText searchTerm={ex.japanese_plain}>
+                            {addFurigana(ex.japanese_plain)}
+                          </BlurredText>
                         </td>
                       </tr>
                     ))}
