@@ -11,15 +11,23 @@ export function convertKatakanaToHiragana(text) {
 }
 
 
-export function BlurredText({ children }) {
+export function BlurredText({ children, searchTerm }) {
   const [blurred, setBlurred] = useState(true);
 
   useEffect(() => {
     setBlurred(true);
   }, [children]);
 
+  const handleClick = () => {
+    setBlurred(false);
+    if (searchTerm) {
+      const encoded = encodeURIComponent(searchTerm);
+      window.open(`https://forvo.com/search/${encoded}/`, '_blank');
+    }
+  };
+
   return (
-    <span className={blurred ? 'blurred' : ''} onClick={() => setBlurred(false)}>
+    <span className={blurred ? 'blurred' : ''} onClick={handleClick}>
       {children}
     </span>
   );
