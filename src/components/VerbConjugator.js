@@ -241,6 +241,19 @@ export default function VerbConjugator() {
                 </table>
               </>
             )}
+            <p className="anime-link">
+              You can get more anime examples by{' '}
+              <a
+                href={`https://immersion-dictionary-r2saexnz6-mathew-chans-projects-22577ade.vercel.app/dictionary?keyword=${encodeURIComponent(
+                  result.title.replace(' Conjugation Table', '')
+                )}&sort=sentence_length%3Aasc`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                clicking here
+              </a>
+              .
+            </p>
           </div>
         )}
       </div>
