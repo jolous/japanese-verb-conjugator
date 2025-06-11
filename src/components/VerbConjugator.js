@@ -189,9 +189,21 @@ export default function VerbConjugator() {
                 {result.conjugations.map((row, index) => (
                   <tr key={index}>
                     <td>{row.conjugation}</td>
-                    <td><BlurredText>{addFurigana(row.polite)}</BlurredText></td>
-                    <td><BlurredText>{addFurigana(row.plain)}</BlurredText></td>
-                    <td><BlurredText>{row.te ? addFurigana(row.te) : ''}</BlurredText></td>
+                    <td>
+                      <BlurredText searchTerm={row.polite}>
+                        {addFurigana(row.polite)}
+                      </BlurredText>
+                    </td>
+                    <td>
+                      <BlurredText searchTerm={row.plain}>
+                        {addFurigana(row.plain)}
+                      </BlurredText>
+                    </td>
+                    <td>
+                      <BlurredText searchTerm={row.te}>
+                        {row.te ? addFurigana(row.te) : ''}
+                      </BlurredText>
+                    </td>
                   </tr>
                 ))}
               </tbody>
@@ -213,8 +225,16 @@ export default function VerbConjugator() {
                       <tr key={idx}>
                         <td>{ex.tense}</td>
                         <td>{ex.english}</td>
-                        <td><BlurredText>{addFurigana(ex.japanese_polite)}</BlurredText></td>
-                        <td><BlurredText>{addFurigana(ex.japanese_plain)}</BlurredText></td>
+                        <td>
+                          <BlurredText searchTerm={ex.japanese_polite}>
+                            {addFurigana(ex.japanese_polite)}
+                          </BlurredText>
+                        </td>
+                        <td>
+                          <BlurredText searchTerm={ex.japanese_plain}>
+                            {addFurigana(ex.japanese_plain)}
+                          </BlurredText>
+                        </td>
                       </tr>
                     ))}
                   </tbody>
