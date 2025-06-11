@@ -19,8 +19,9 @@ export function BlurredText({ children, searchTerm }) {
   }, [children]);
 
   const handleClick = () => {
-    setBlurred(false);
-    if (searchTerm) {
+    if (blurred) {
+      setBlurred(false);
+    } else if (searchTerm) {
       const encoded = encodeURIComponent(searchTerm);
       window.open(`https://forvo.com/search/${encoded}/`, '_blank');
     }
