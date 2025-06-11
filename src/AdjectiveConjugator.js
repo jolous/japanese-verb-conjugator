@@ -224,12 +224,12 @@ function AdjectiveConjugator() {
                         <td>{ex.tense}</td>
                         <td>{ex.english}</td>
                         <td>
-                          <BlurredText searchTerm={ex.japanese_polite}>
+                          <BlurredText>
                             {addFurigana(ex.japanese_polite)}
                           </BlurredText>
                         </td>
                         <td>
-                          <BlurredText searchTerm={ex.japanese_plain}>
+                          <BlurredText>
                             {addFurigana(ex.japanese_plain)}
                           </BlurredText>
                         </td>
