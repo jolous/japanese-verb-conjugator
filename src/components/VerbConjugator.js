@@ -14,17 +14,19 @@ export default function VerbConjugator() {
   const [showRules, setShowRules] = useState(false);
   const [conjugationLibrary, setConjugationLibrary] = useState({});
 
-  useEffect(() => {
-    kuromoji
-      .builder({ dicPath: 'https://cdn.jsdelivr.net/npm/kuromoji@0.1.2/dict/' })
-      .build((err, tk) => {
-        if (err) {
-          console.error('Kuromoji build error:', err);
-          return;
-        }
-        setTokenizer(tk);
-      });
-  }, []);
+  const DICT_PATH = process.env.PUBLIC_URL + "/dict/";
+
+useEffect(() => {
+   kuromoji
+     .builder({ dicPath: DICT_PATH })
+     .build((err, tk) => {
+       if (err) {
+         console.error("Kuromoji build error:", err);
+         return;
+       }
+       setTokenizer(tk);
+     });
+ }, []);
 
   useEffect(() => {
     fetch('/verbs.json')

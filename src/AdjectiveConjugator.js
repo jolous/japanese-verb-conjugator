@@ -13,18 +13,19 @@ function AdjectiveConjugator() {
   const [tokenizer, setTokenizer] = useState(null);
   const [conjugationLibrary, setConjugationLibrary] = useState({});
 
-  // Load kuromoji tokenizer once on mount
-  useEffect(() => {
-    kuromoji
-      .builder({ dicPath: "https://cdn.jsdelivr.net/npm/kuromoji@0.1.2/dict/" })
-      .build((err, tk) => {
-        if (err) {
-          console.error("Kuromoji build error:", err);
-          return;
-        }
-        setTokenizer(tk);
-      });
-  }, []);
+const DICT_PATH = process.env.PUBLIC_URL + "/dict/";
+
+useEffect(() => {
+   kuromoji
+     .builder({ dicPath: DICT_PATH })
+     .build((err, tk) => {
+       if (err) {
+         console.error("Kuromoji build error:", err);
+         return;
+       }
+       setTokenizer(tk);
+     });
+ }, []);
 
   // Fetch adjectives data from the JSON file in the public folder
   useEffect(() => {
