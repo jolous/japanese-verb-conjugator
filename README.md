@@ -25,3 +25,4 @@ The output will be placed in the `build` directory.
 ## License
 
 This project is released under the [MIT License](LICENSE).
+# japanese-verb-conjugator
