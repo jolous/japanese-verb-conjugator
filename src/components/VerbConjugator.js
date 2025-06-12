@@ -245,7 +245,8 @@ export default function VerbConjugator() {
               You can get more anime examples by{' '}
               <a
                 href={`https://immersion-dictionary-r2saexnz6-mathew-chans-projects-22577ade.vercel.app/dictionary?keyword=${encodeURIComponent(
-                  result.title.replace(' Conjugation Table', '')
+                  (result.conjugations.find(c => c.conjugation === 'Non-past Affirmative')?.polite ||
+                    result.title.replace(' Conjugation Table', ''))
                 )}&sort=sentence_length%3Aasc`}
                 target="_blank"
                 rel="noopener noreferrer"
